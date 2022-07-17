@@ -1,14 +1,20 @@
-# Unity 프로젝트 기획서 양식
-Unity 프로젝트 기획서는 아래와 같은 양식으로
-본인 레포에 README.md에 작성합니다.
+# Unity 프로젝트 기획서
 
 ## 게임 개요
-게임에 대해서 간단히 설명합니다.
-
-**창작**의 경우 간단한 시놉시스와 함께 소개하며, 게임 방법에 대해 상세하게 소개합니다.
-
-**모작**의 경우 모작한 게임의 링크를 남겨놓습니다.
-- Ex) [길건너친구들](https://play.google.com/store/apps/details?id=com.yodo1.crossyroad)을 모작했습니다.
+모작 리스트
+1) [할로우 나이트](https://store.steampowered.com/app/367520/Hollow_Knight/?l=koreana)
+  : 메트로배니아, 소울라이크 /
+  - 플레이어 캐릭터의 기술
+  - 몹과의 상호작용 위주로 구현
+2) [Frincess&Cnight](https://store.steampowered.com/app/1452540/FrincessCnight/?l=koreana)
+  : 도트, 퍼즐
+  - 플레이어 캐릭터의 움직임
+  - 퍼즐과 장애물과 캐릭터간의 상호작용 구현
+3) [Full Metal Furies](https://store.steampowered.com/app/416600/Full_Metal_Furies/)
+  : 액션, RPG
+  - 플레이어 캐릭터들의 공격 및 방어 기술 구현
+  - 몹과의 전투
+  - 맵 이동 구현
 
 ## 개발 환경
 프로젝트가 완료된 후 개발 환경을 작성합니다. 기간 / 인원 / 사용한 툴 / 외부 패키지, 라이브러리 등을 작성합니다.
