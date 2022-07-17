@@ -3,7 +3,7 @@
 ## 게임 개요
 모작 리스트
 1) [할로우 나이트](https://store.steampowered.com/app/367520/Hollow_Knight/?l=koreana)
-  : 메트로배니아, 소울라이크 /
+  : 메트로배니아, 소울라이크
   - 플레이어 캐릭터의 기술
   - 몹과의 상호작용 위주로 구현
 2) [Frincess&Cnight](https://store.steampowered.com/app/1452540/FrincessCnight/?l=koreana)
