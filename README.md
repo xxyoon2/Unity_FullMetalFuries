@@ -1,20 +1,13 @@
 # Unity 프로젝트 기획서
 
 ## 게임 개요
-모작 리스트
-1) [할로우 나이트](https://store.steampowered.com/app/367520/Hollow_Knight/?l=koreana)
-  : 메트로배니아, 소울라이크
-  - 플레이어 캐릭터의 기술
-  - 몹과의 상호작용 위주로 구현
-2) [Frincess&Cnight](https://store.steampowered.com/app/1452540/FrincessCnight/?l=koreana)
+ㅁ [Frincess&Cnight](https://store.steampowered.com/app/1452540/FrincessCnight/?l=koreana)
   : 도트, 퍼즐
   - 플레이어 캐릭터의 움직임
   - 퍼즐과 장애물과 캐릭터간의 상호작용 구현
-3) [Full Metal Furies](https://store.steampowered.com/app/416600/Full_Metal_Furies/)
-  : 액션, RPG
-  - 플레이어 캐릭터들의 공격 및 방어 기술 구현
-  - 몹과의 전투
-  - 맵 이동 구현
+  
+  - 유니티 타일맵
+  - 최대한 많은 장애물이 나오는 맵을 찾아보던가, 최대한 구현도 위주로 보여줄 것
 
 ## 개발 환경
 프로젝트가 완료된 후 개발 환경을 작성합니다. 기간 / 인원 / 사용한 툴 / 외부 패키지, 라이브러리 등을 작성합니다.
