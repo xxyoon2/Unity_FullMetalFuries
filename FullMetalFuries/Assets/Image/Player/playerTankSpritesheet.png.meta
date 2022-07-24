@@ -1,0 +1,3390 @@
+fileFormatVersion: 2
+guid: d0cb09b7a18374d969b50b3c5458f82e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playerTankSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 617
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23686a2b448c64dcc9c5ef5e6ce19273
+      internalID: 1231131172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 617
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7bf805e01514a518e9c217b7ffa522
+      internalID: -27935559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 617
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e2f681a2dd74dbea72fdfb5af52cc5
+      internalID: 1727697938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 617
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874da9737ba484cd6b488bc8d968ab07
+      internalID: -235138100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 617
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cad1c013fc24ee98a3cc1097ca8aeb
+      internalID: 622131023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 617
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87246a8357037465fb33f3905bbd894f
+      internalID: 1533791115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 602
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bf9aaa6cbc34b96822413676026fa2
+      internalID: 1597543400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 602
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95f3e19c135541229d38c1183f81cc7
+      internalID: -1269573630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 561
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34544bd2354d418ebc3ce5340b6cf72
+      internalID: 943756249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 560
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b81df78e6e14d31890010fbf2f1ffc
+      internalID: 1625112780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf63e636107be4964a0af615192268ee
+      internalID: -1220691464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 559
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129ddf7e964647c99f3ce99e7890ac7
+      internalID: 352154161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 561
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e731b75a526184c7ba9602af6b91ea32
+      internalID: -1727746454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 557
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee365520685b44d268e3f334195582cb
+      internalID: -555475889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 557
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831c1c3c85443436bacd8795a0205d6b
+      internalID: -242615899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 557
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f189114f757e471a9a2f2c15b02ca6b
+      internalID: -848408396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 557
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4aabad676bf4890930696421e67fd7
+      internalID: 353721985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 557
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7470058fc6914a7e99de0fdea4a3b84
+      internalID: 1751424587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 513
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f15b2b07b6433c8601b562a545fe1
+      internalID: 1977378998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 509
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9a89cedaa9421aa67afc7f284c0af
+      internalID: -504007532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 509
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7603b36d21f4740898aa5ac5d710f36e
+      internalID: 399109265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 512
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118cd35be18a468e8d5434fc7570c7f
+      internalID: -1288648094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 500
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e7b56ddbf0e4b23937130a855917ea
+      internalID: 1729296927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 497
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc20b1901ec64d32abca1ebf076faf0
+      internalID: 1346415577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 452
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d9035faa228400bb7715eb2a2990a3
+      internalID: -839078964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 451
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af779e3c186e467d9d7df98420fbeec
+      internalID: 482826960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 454
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e42f0ea819da4969aaeec550d287a9e
+      internalID: -478459551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 444
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee4a2f486b804367a6eab10de3a1ff8
+      internalID: -951560913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 444
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73aa66fcf3d4cf5b0c70ec70e0315e
+      internalID: -2067298303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 444
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52a09fecaa1d46bb870cc8d340d46fd
+      internalID: 1141174476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 446
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7f7bd8dfeca456ebd29c40a08de1c4
+      internalID: 2055890152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 398
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcbac52cc09d4ceaaa9200b2126da26
+      internalID: -967306261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 398
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410fda76ed1364e89a8da0a5267f417c
+      internalID: -1012926819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 398
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f3d1909ecc74fdd87a0aed6c0dc094
+      internalID: 1020183508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 398
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d7877cdb3e74d4e88f12ece2020a93
+      internalID: 690860618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 398
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43db1dab09a2a4f9084c656ae6631695
+      internalID: -2111424326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 399
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78175b4603daa4ab0b8605ecbaec331a
+      internalID: 132188664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 399
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597eb759a374f45d8967a396e382f45e
+      internalID: -25604491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 399
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee55f5071dc74883aac0ecaf8fb2c72
+      internalID: -995945260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 399
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216a802d8855340168fb380cc979a739
+      internalID: 1197448144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 370
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc038e6a78494adc90e2085473176cd
+      internalID: -2106967875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 373
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8795fa4f4fc244ad1a04ebf82d208a2d
+      internalID: 1057253099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 346
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03805404fb84f4bf08d85b11e0fb9bdb
+      internalID: 1762299433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 346
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda82951919b447fd97d58e2ab128975
+      internalID: -773501847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 331
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d2437e281248d2847a44fb04afef0
+      internalID: 1652230617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 331
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5351a5eceb61241f590d8b83e0308cad
+      internalID: 1123747920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 331
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e4395a474ee441fb9d1f2584af6d85
+      internalID: 2067434461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 338
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4daf36360e486997cf22a7b147472
+      internalID: 1671561638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 353
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140990721fbdf43cd8ff1413c127816e
+      internalID: -341849839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 297
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cc05273fb0740c58fa9ac79cef7e25
+      internalID: -1707152124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 298
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b661d3bcd140a6ad5832c37f3a3fa
+      internalID: -398895907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 298
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06553ecfc9d9646cb98623960ad6b12d
+      internalID: -489107253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 298
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a8c0653883443e2bfba439462d6144
+      internalID: 1126872785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 298
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f4ca7fdabf454296531dd34ea2f16
+      internalID: 2094254434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 320
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14819ea68593d4473a5cd14be6d4abdf
+      internalID: -473337756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 308
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029a67dff8e046a49cdf7ae71fb40ac
+      internalID: -934382013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e767eedbde24752a4fd724115b962f
+      internalID: -782477130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 266
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa34c53e13140088084d83e54bae74
+      internalID: 1033923296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 266
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01bf3d0629d746a1ad07e1070772b27
+      internalID: -268911453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 266
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be76ba6cffc8d4aedacd30991c578354
+      internalID: -822130792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 273
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea956bee0248499e96ccfac719890d5
+      internalID: -459017807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 273
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5c3398e6c43423ea95eaf82b8abb3c
+      internalID: 703542140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e0b5c06c655420dbbb9cc5aef0d6ed
+      internalID: 579816378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 215
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e398db6ebcf6f460589811be64d0380a
+      internalID: 1105221594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 215
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ce91519ac89490bb53583c0632e25d
+      internalID: 943207650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 215
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5a8044a9524ac98d277f26e28d151
+      internalID: 1389081746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 215
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e871b212c6da74000ac3084ad7fbe292
+      internalID: 248288759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 232
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0465158acd9c94d9aa55bf024fab38f1
+      internalID: -1049775494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 233
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e28fa01657104941acfbf72c7cf2306
+      internalID: 1380094258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 233
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba825431457140fc9a9a346338455c4
+      internalID: 522357704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 234
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f8705a551f4dacb5dae76118a6858
+      internalID: -895498203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 234
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101fa85b653174677ae51571730da6f5
+      internalID: 1812193519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 234
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8444bbe65eec947eaa9fc6049c567180
+      internalID: 925136558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 234
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ab0da6ff37c4c77af9a138875dd8f2
+      internalID: -166553678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 241
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9acd5cae6b11410f9651d6156dedaa4
+      internalID: -2045536917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 241
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a6c231d6a1f44bfb0680c9249bd522
+      internalID: -1340168160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 241
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4c8daf8903e4032acd82abbc4b2d2f
+      internalID: 792872046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 241
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b240f51f91343410b9013598c72abbf7
+      internalID: 632798365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c74b43546a74c39a9bcfe072ee7c30
+      internalID: -46707618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 183
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb70ffa07ad349cea9f961f27ba367b
+      internalID: -1205118188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 183
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30030f97bf1d249288974460f64bfe1a
+      internalID: -1629363781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 183
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f835f19c9e456467282e8e19dd065b73
+      internalID: 769236989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 202
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db02132c114404884b6465950878e063
+      internalID: -224186452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 203
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fce5c3b02e74d3c90792643026e394
+      internalID: -1882103797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 203
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1ed5a05d0342c8bc413e8a305f8db
+      internalID: 1205608403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 203
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47262064763649c0b9ffa68ad33821a
+      internalID: 1737157624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 210
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f38a057b00f47179d018a63baa6793
+      internalID: -480084015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 210
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3422accedaa384a2d8a474287b783c3d
+      internalID: -1086333388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 210
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd624d71fbd14fefa20e1fe73218c22
+      internalID: -407152122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871409ad25bb4b29a0ef22bdcf24c05
+      internalID: 1119387194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 173
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98975db77497e4d40b7e3db0de432dbb
+      internalID: 2105134879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 180
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9154906271f96428ebb952646b106705
+      internalID: -2081919822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 180
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7f1f6a8d0534fb7ba45395e641a205
+      internalID: -744378965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 180
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2897f1bb2aad346a3b2a45fc0d3d766d
+      internalID: -143831489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 124
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1abfa55745b41bf96411cca49a7148
+      internalID: 1182572337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 142
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f35c7ceb6cd24bb2baab39d00213fe1
+      internalID: -1801362906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 144
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a1672a6c2be48ce90857963eef9a53
+      internalID: 575207500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 144
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dd23976ca514b9daf9d5f8ae0ff8cb
+      internalID: -2118243524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 144
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab30a60ded3049a4803088d67d304b1
+      internalID: -1910978140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 144
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febfe736d00684a4cabbe99a57416d97
+      internalID: 359304775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 151
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d829511f317457484f41bda25af6e7
+      internalID: -289747424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 151
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72941538ffa4044fe9658fee77c4b1e0
+      internalID: -1848347051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 151
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7690d22b56c1f48dbbc78c9afb7da60f
+      internalID: -4701210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2c2309f0094419a3b4a112a2d1c54
+      internalID: 2049894626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 122
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9302272b9264434bb0f6b1dd370984
+      internalID: -443284631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 122
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de63e02056f4d5d85035ce9f9a692d
+      internalID: -1111756882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 122
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cbb1b87cf0c477ea64b5fe85f45ce7
+      internalID: 988123611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 122
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c9f1244bdc4d1fa3a5d7d7b40c434
+      internalID: 1529802615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 114
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b598969732d48bfb938ee4bbaca58d
+      internalID: -719252086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 116
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55b06afe993423382f024206898e50
+      internalID: 242411991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 116
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d7036bdf64a4930b8ee00c7bc0bf18
+      internalID: 296481916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 116
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4e2f813a6d41d281a700a44a2c639
+      internalID: 1122286107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 116
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7921098a59f1c4313938e002a9aedb09
+      internalID: -1716143445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 123
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f378efe56f6432fa4be44df2d6d967
+      internalID: 368413710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 123
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2a39ebc4a348fe9f559ac84e3c697
+      internalID: 133388400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 123
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7aa69b22d84d2495d009358bd895f
+      internalID: 1973770126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d92408bb2734a96b905009c1cfca1e
+      internalID: 1890217539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 93
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d5e4bb0184942438e66d3930290f61
+      internalID: -251618063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 93
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e46f44213f440f1b63d2a021641e14
+      internalID: 1710807778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 93
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f44d8b303d0d4954a603b6534f52cea
+      internalID: 1924411868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 94
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a794e39f1e9c420884b4fbbb3991459
+      internalID: 1815239328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 96
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f5ac2d9a3814f5c9dc5ebfb06f7eb7
+      internalID: 655530308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 86
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6f0c0ab09b7428cbacb149ed7370e7
+      internalID: -93201615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 88
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b285ba25eb7b547cb93a0dc3b4d1b161
+      internalID: 243895877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 88
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef681c5626b3b401ebb3ee9f59bd17ad
+      internalID: 78429463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 88
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706c657fbd6804ab0b43ae39c82b2031
+      internalID: 686041212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 88
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe30d02329ee48f485154460571eb29
+      internalID: 1583855378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41308f26b9f024c5da4cdb99f003cba9
+      internalID: -273698007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b221520f688a435c8044a6a1740ba2d
+      internalID: 1655899234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e37048ecc54d4c90ca4bac8c0ca11
+      internalID: -1558661955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 66
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a6a1e5b44ac4a6e9ddfdf75cfcfd0d
+      internalID: -491022985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 68
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a0ad71ed6de4af98c0a946f04ff7eb
+      internalID: 2081253928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 61
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3326300c87ab54e36a33c8ec5c3d6351
+      internalID: 1102736772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 69
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e34aad655c54ecaa5f611f1858ef23
+      internalID: -1219972690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 70
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71edbac36fb7541b9827af0a029ec275
+      internalID: 981832144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447ededc7d8d64407a23f4ee53260cb1
+      internalID: 281191637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 38
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf2edc13ceb34b6997e4dae5eafed6e
+      internalID: -775064568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 28
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d2b3482cd534d97bda9723e242c402
+      internalID: -1096118817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 36
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2ed7eb7ff3644d58003273a63700e0
+      internalID: 2103174060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c382530bedb648faa0f1d6938b9f674
+      internalID: -1061226392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 11
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c682387027364460799db308fb844e02
+      internalID: 1691022226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 9
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ff6b119282f4e558ef8760d996cf6c
+      internalID: 85866408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 9
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740d9e3001b6d4a198e019fd50ff4aa2
+      internalID: 1831466187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 11
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a7b8635d3c64ee5a13bc47982db706
+      internalID: 1139196756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 11
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215d50f82b36544509a786a67467842b
+      internalID: 251433615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f771454ad87c44b2808e584c35e6151
+      internalID: -2052184813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 7
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b81b68debba46ccac1b9a8f9b86c3f
+      internalID: 2073097025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerTankSpritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 6
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e11df167a74ea2809cc5b09f9aa85
+      internalID: 551226197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      playerTankSpritesheet_33: 1020183508
+      playerTankSpritesheet_15: -848408396
+      playerTankSpritesheet_68: 1380094258
+      playerTankSpritesheet_137: -1096118817
+      playerTankSpritesheet_107: 1529802615
+      playerTankSpritesheet_113: 368413710
+      playerTankSpritesheet_53: 2094254434
+      playerTankSpritesheet_65: 1389081746
+      playerTankSpritesheet_126: 1583855378
+      playerTankSpritesheet_32: -1012926819
+      playerTankSpritesheet_4: 622131023
+      playerTankSpritesheet_44: 1652230617
+      playerTankSpritesheet_13: -555475889
+      playerTankSpritesheet_116: 1890217539
+      playerTankSpritesheet_34: 690860618
+      playerTankSpritesheet_61: 703542140
+      playerTankSpritesheet_23: 1346415577
+      playerTankSpritesheet_86: -480084015
+      playerTankSpritesheet_141: 85866408
+      playerTankSpritesheet_83: -1882103797
+      playerTankSpritesheet_105: -1111756882
+      playerTankSpritesheet_36: 132188664
+      playerTankSpritesheet_29: 1141174476
+      playerTankSpritesheet_109: 242411991
+      playerTankSpritesheet_58: -268911453
+      playerTankSpritesheet_87: -1086333388
+      playerTankSpritesheet_40: -2106967875
+      playerTankSpritesheet_91: -2081919822
+      playerTankSpritesheet_104: -443284631
+      playerTankSpritesheet_47: 1671561638
+      playerTankSpritesheet_119: 1924411868
+      playerTankSpritesheet_54: -473337756
+      playerTankSpritesheet_135: 281191637
+      playerTankSpritesheet_69: 522357704
+      playerTankSpritesheet_93: -143831489
+      playerTankSpritesheet_99: 359304775
+      playerTankSpritesheet_50: -398895907
+      playerTankSpritesheet_28: -2067298303
+      playerTankSpritesheet_16: 353721985
+      playerTankSpritesheet_26: -478459551
+      playerTankSpritesheet_45: 1123747920
+      playerTankSpritesheet_67: -1049775494
+      playerTankSpritesheet_144: 251433615
+      playerTankSpritesheet_131: 2081253928
+      playerTankSpritesheet_31: -967306261
+      playerTankSpritesheet_94: 1182572337
+      playerTankSpritesheet_120: 1815239328
+      playerTankSpritesheet_51: -489107253
+      playerTankSpritesheet_92: -744378965
+      playerTankSpritesheet_88: -407152122
+      playerTankSpritesheet_139: -1061226392
+      playerTankSpritesheet_37: -25604491
+      playerTankSpritesheet_56: -782477130
+      playerTankSpritesheet_90: 2105134879
+      playerTankSpritesheet_7: -1269573630
+      playerTankSpritesheet_24: -839078964
+      playerTankSpritesheet_1: -27935559
+      playerTankSpritesheet_84: 1205608403
+      playerTankSpritesheet_130: -491022985
+      playerTankSpritesheet_98: -1910978140
+      playerTankSpritesheet_138: 2103174060
+      playerTankSpritesheet_71: 1812193519
+      playerTankSpritesheet_20: 399109265
+      playerTankSpritesheet_39: 1197448144
+      playerTankSpritesheet_101: -1848347051
+      playerTankSpritesheet_132: 1102736772
+      playerTankSpritesheet_21: -1288648094
+      playerTankSpritesheet_111: 1122286107
+      playerTankSpritesheet_9: 1625112780
+      playerTankSpritesheet_35: -2111424326
+      playerTankSpritesheet_129: -1558661955
+      playerTankSpritesheet_0: 1231131172
+      playerTankSpritesheet_89: 1119387194
+      playerTankSpritesheet_106: 988123611
+      playerTankSpritesheet_85: 1737157624
+      playerTankSpritesheet_60: -459017807
+      playerTankSpritesheet_108: -719252086
+      playerTankSpritesheet_77: 632798365
+      playerTankSpritesheet_147: 551226197
+      playerTankSpritesheet_121: 655530308
+      playerTankSpritesheet_112: -1716143445
+      playerTankSpritesheet_140: 1691022226
+      playerTankSpritesheet_62: 579816378
+      playerTankSpritesheet_57: 1033923296
+      playerTankSpritesheet_3: -235138100
+      playerTankSpritesheet_64: 943207650
+      playerTankSpritesheet_118: 1710807778
+      playerTankSpritesheet_14: -242615899
+      playerTankSpritesheet_27: -951560913
+      playerTankSpritesheet_42: 1762299433
+      playerTankSpritesheet_63: 1105221594
+      playerTankSpritesheet_59: -822130792
+      playerTankSpritesheet_41: 1057253099
+      playerTankSpritesheet_100: -289747424
+      playerTankSpritesheet_10: -1220691464
+      playerTankSpritesheet_12: -1727746454
+      playerTankSpritesheet_117: -251618063
+      playerTankSpritesheet_122: -93201615
+      playerTankSpritesheet_43: -773501847
+      playerTankSpritesheet_8: 943756249
+      playerTankSpritesheet_75: -1340168160
+      playerTankSpritesheet_2: 1727697938
+      playerTankSpritesheet_97: -2118243524
+      playerTankSpritesheet_143: 1139196756
+      playerTankSpritesheet_136: -775064568
+      playerTankSpritesheet_49: -1707152124
+      playerTankSpritesheet_72: 925136558
+      playerTankSpritesheet_70: -895498203
+      playerTankSpritesheet_74: -2045536917
+      playerTankSpritesheet_95: -1801362906
+      playerTankSpritesheet_18: 1977378998
+      playerTankSpritesheet_48: -341849839
+      playerTankSpritesheet_110: 296481916
+      playerTankSpritesheet_55: -934382013
+      playerTankSpritesheet_46: 2067434461
+      playerTankSpritesheet_17: 1751424587
+      playerTankSpritesheet_38: -995945260
+      playerTankSpritesheet_6: 1597543400
+      playerTankSpritesheet_73: -166553678
+      playerTankSpritesheet_128: 1655899234
+      playerTankSpritesheet_142: 1831466187
+      playerTankSpritesheet_96: 575207500
+      playerTankSpritesheet_146: 2073097025
+      playerTankSpritesheet_80: -1629363781
+      playerTankSpritesheet_25: 482826960
+      playerTankSpritesheet_123: 243895877
+      playerTankSpritesheet_114: 133388400
+      playerTankSpritesheet_133: -1219972690
+      playerTankSpritesheet_22: 1729296927
+      playerTankSpritesheet_11: 352154161
+      playerTankSpritesheet_81: 769236989
+      playerTankSpritesheet_19: -504007532
+      playerTankSpritesheet_103: 2049894626
+      playerTankSpritesheet_5: 1533791115
+      playerTankSpritesheet_30: 2055890152
+      playerTankSpritesheet_102: -4701210
+      playerTankSpritesheet_76: 792872046
+      playerTankSpritesheet_115: 1973770126
+      playerTankSpritesheet_78: -46707618
+      playerTankSpritesheet_52: 1126872785
+      playerTankSpritesheet_66: 248288759
+      playerTankSpritesheet_124: 78429463
+      playerTankSpritesheet_82: -224186452
+      playerTankSpritesheet_127: -273698007
+      playerTankSpritesheet_125: 686041212
+      playerTankSpritesheet_134: 981832144
+      playerTankSpritesheet_79: -1205118188
+      playerTankSpritesheet_145: -2052184813
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
