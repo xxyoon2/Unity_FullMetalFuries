@@ -196,13 +196,45 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1374291433}
     m_Modifications:
+    - target: {fileID: 7779186623606599786, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
+      propertyPath: m_DrawMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7779186623606599786, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7779186623606599786, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7779186623606599786, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7779186623606599786, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
+      propertyPath: m_SpriteSortPoint
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7779186623606599787, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
       propertyPath: m_Name
       value: TreeA
       objectReference: {fileID: 0}
+    - target: {fileID: 7779186623606599787, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7779186623606599789, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7779186623606599789, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7779186623606599789, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7779186623606599789, guid: eaa9d4921c7044b759cf9c88851379a5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -262,6 +294,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TreeB
       objectReference: {fileID: 0}
+    - target: {fileID: 6372629340872953996, guid: 130cd30d1b1814bbfb3b183b850d67c3, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6372629340872953998, guid: 130cd30d1b1814bbfb3b183b850d67c3, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -304,6 +340,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6372629340872953998, guid: 130cd30d1b1814bbfb3b183b850d67c3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372629340872953999, guid: 130cd30d1b1814bbfb3b183b850d67c3, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372629340872953999, guid: 130cd30d1b1814bbfb3b183b850d67c3, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6372629340872953999, guid: 130cd30d1b1814bbfb3b183b850d67c3, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6372629340872953999, guid: 130cd30d1b1814bbfb3b183b850d67c3, type: 3}
@@ -408,7 +456,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1772213569250573470, guid: 3d973fb9d532b46aaaae9954b785bf8c, type: 3}
       propertyPath: m_SortingOrder
-      value: -93
+      value: 1001
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d973fb9d532b46aaaae9954b785bf8c, type: 3}
@@ -558,7 +606,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1772213569250573470, guid: 3d973fb9d532b46aaaae9954b785bf8c, type: 3}
       propertyPath: m_SortingOrder
-      value: -92
+      value: 1000
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d973fb9d532b46aaaae9954b785bf8c, type: 3}
@@ -1518,6 +1566,7 @@ GameObject:
   - component: {fileID: 1184198471}
   - component: {fileID: 1184198470}
   - component: {fileID: 1184198473}
+  - component: {fileID: 1184198477}
   - component: {fileID: 1184198475}
   - component: {fileID: 1184198474}
   - component: {fileID: 1184198476}
@@ -1588,7 +1637,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_Sprite: {fileID: 1231131172, guid: d0cb09b7a18374d969b50b3c5458f82e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1628,7 +1677,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.1}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1639,7 +1688,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.2, y: 0.3}
+  m_Size: {x: 0.2, y: 0.1}
   m_EdgeRadius: 0
 --- !u!114 &1184198474
 MonoBehaviour:
@@ -1654,6 +1703,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MoveSpeed: 1
+  isback: 1
 --- !u!114 &1184198475
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1679,7 +1729,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 10
+  m_LinearDrag: 15
   m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
@@ -1687,6 +1737,32 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!61 &1184198477
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1184198469}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.33}
+    newSize: {x: 0.32, y: 0.33}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.32, y: 0.33}
+  m_EdgeRadius: 0
 --- !u!1 &1187719980
 GameObject:
   m_ObjectHideFlags: 0
@@ -2745,6 +2821,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Woods
       objectReference: {fileID: 0}
+    - target: {fileID: 1772213569250573468, guid: 3d973fb9d532b46aaaae9954b785bf8c, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1772213569250573469, guid: 3d973fb9d532b46aaaae9954b785bf8c, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -2787,6 +2867,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1772213569250573469, guid: 3d973fb9d532b46aaaae9954b785bf8c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1772213569250573470, guid: 3d973fb9d532b46aaaae9954b785bf8c, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1772213569250573470, guid: 3d973fb9d532b46aaaae9954b785bf8c, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -2845,6 +2933,14 @@ PrefabInstance:
     - target: {fileID: 7940416247926748531, guid: 76cdc5241d3754718ba959b795fddefc, type: 3}
       propertyPath: m_Name
       value: BoxA
+      objectReference: {fileID: 0}
+    - target: {fileID: 7940416247926748531, guid: 76cdc5241d3754718ba959b795fddefc, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8180806018363010709, guid: 76cdc5241d3754718ba959b795fddefc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76cdc5241d3754718ba959b795fddefc, type: 3}
