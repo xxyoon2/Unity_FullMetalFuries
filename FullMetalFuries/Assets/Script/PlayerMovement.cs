@@ -11,14 +11,14 @@ public class PlayerMovement : MonoBehaviour
 
     private PlayerInput _input;
     private Rigidbody2D _rigidbody;
-    //private Animator _animator;
+    private Animator _animator;
     void Awake()
     {
         
         _input = GetComponent<PlayerInput>();
         _rigidbody = gameObject.GetComponent<Rigidbody2D>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
-        //_animator = GetComponent<Animator>();
+        _animator = GetComponent<Animator>();
     }
     private void OnTriggerStay2D(Collider2D other)
     {
@@ -26,8 +26,6 @@ public class PlayerMovement : MonoBehaviour
         SpriteRenderer oRenderer = other.GetComponent<SpriteRenderer>();
         float oTransform = other.transform.position.y;
         
-        
-
         if (transform.position.y > other.transform.position.y)
         {
             isback = true;
@@ -65,6 +63,23 @@ public class PlayerMovement : MonoBehaviour
         if (_input.Left)
         {
             _rigidbody.AddForce(new Vector2(-MoveSpeed, 0));
+        }
+
+        if (_rigidbody.velocity.normalized.x != 0 || _rigidbody.velocity.normalized.y != 0)
+        {
+            _animator.SetBool("isWalking", true);
+            if (_rigidbody.velocity.normalized.x > 0)
+            {
+                transform.localScale = new Vector3(1.5f, 1.5f, 1f);
+            }
+            else
+            {
+                transform.localScale = new Vector3(-1.5f, 1.5f, 1f);
+            }
+        }
+        else
+        {
+            _animator.SetBool("isWalking", false);
         }
     }
 }
