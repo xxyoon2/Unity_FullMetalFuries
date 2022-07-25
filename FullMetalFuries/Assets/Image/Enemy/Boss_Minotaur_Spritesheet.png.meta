@@ -1,0 +1,2852 @@
+fileFormatVersion: 2
+guid: 79d45ae669590b14cbf1a069cac42454
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 335, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 123
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e5fa00eb0ffda49a6006f0f24121b0
+      internalID: 741924626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 951
+        width: 117
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897fb5c244b591048b01b55a5bda8937
+      internalID: -18273455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 951
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8771003c57e3419ecf5a24998df5f
+      internalID: 545040663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 952
+        width: 124
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530d27f1736d1004a877a7567dd1f6d7
+      internalID: 144006179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 952
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a60c39c78712943b0daa113b8a86dd
+      internalID: 1737125506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 952
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f3d6975225aae48af05627936a396c
+      internalID: 1020033258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 952
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35642504ee7c3be4aa3a456ef5031a75
+      internalID: 248236860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 952
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1a3b57c4adee24cb619669f910418e
+      internalID: 181848239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 953
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84af52b226f1957418a34f1fc2fe0e3a
+      internalID: 746725451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 953
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef69dc9dff31243adf92ce69c090fe
+      internalID: 1152881792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1006
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a106df34fc59414e9fe013aa684ebe3
+      internalID: -1970083267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1005
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ab189b5b64be4d9d2df7eed0b6e8d
+      internalID: 1605059696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 986
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e09ebdf248144d4da4b0b20eeaa98d7
+      internalID: 271581087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 967
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb995fd37904004dbd8f5d559f3b546
+      internalID: -391474940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 953
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f514d1099b8d4fb4ebd6c1e3c92c4
+      internalID: 882445385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbead027cb39dd4dad28613501444a8
+      internalID: 154370904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 871
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c2e61992c1904b905e3eb599d3495
+      internalID: 1677644778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 881
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ba39ddef41b04f9574b23a494e0a4
+      internalID: -605218618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 882
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d17a9d8a44beb64b96401250c2fb961
+      internalID: 1868237267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 883
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d075712884bfd214a87fb84f97b599c3
+      internalID: -669146046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 883
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291a0675d2a05154f932b7d3ba640f70
+      internalID: 2089528863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 883
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fb02e8859d6374d85f8e4fcee76c21
+      internalID: -364541178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 883
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf339ce644b1a74c9e86af8f3bf98d1
+      internalID: -924823732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 884
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a4ff4f944f2c4e910a9dcc19d4146
+      internalID: -841045772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 884
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f032756722d1641ac1ffa133927830
+      internalID: 1676122596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 885
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b72e60c813675141b5358946cdce708
+      internalID: 998371733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 885
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185097b6bc697ed4d8a2c6cf6bc7bb0f
+      internalID: 1686125457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b79dd6fc366be14d9a40730443701f8
+      internalID: 411631328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 803
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174f77e27b879347ae74fc7e309f420
+      internalID: 1690381383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 813
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa9ac81a7488c40b6a6f72a84e4111
+      internalID: 49999551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 814
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aaff7abb3aeb14fb79b2733b6f894c
+      internalID: -1035188352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 815
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ec95c60e5e53f4dab2eec99b5ffdc8
+      internalID: -912261474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 815
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6340641c6b2b7429fcfb5bf1cdce14
+      internalID: 311568286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 815
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c64c8affd70f54289a1535856284a7
+      internalID: 1048193178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 815
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a163152194f1cd4092117f69427d851
+      internalID: 860309823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 817
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debca8f4568555b4690442281c823ea4
+      internalID: 1595239331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 817
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75680b623a2224d44834e9c083cd0d6c
+      internalID: -6666748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 818
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b233509db7f264743b1372df01632de2
+      internalID: 1399092635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 818
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fbfafd699ce3a40a68fa86497ee5ff
+      internalID: 1523036260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e70173d9c0aa34ab53d83f6b1dd55d
+      internalID: -179788910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 736
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0155322e9eec9604d84b265f8d967be3
+      internalID: -1313256688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 746
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0784040395558144947ba2e2fb63942
+      internalID: 644620266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 747
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9581bca17ea8fbf4eaa40e631cecbd79
+      internalID: 751626757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 748
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea762775f8f41a644a5e06274e92f505
+      internalID: -1935683511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 748
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24736bacff6d8f4cacd91a8c38c4a63
+      internalID: 961558341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 748
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b349adb58317e4f9af651bb8721f74
+      internalID: 1297119788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 749
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f5b2f76f35dc2418475fca9d45fa60
+      internalID: 200449558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 751
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59eb8a4c8bc7a3498df15688050d794
+      internalID: 156977360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 751
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269642a0f05d1fa4eb0b8e71390abe38
+      internalID: 914008592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 752
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf0996a41c7720408217b38170494b2
+      internalID: 1696415093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 752
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15947793412e84744a01610a19e75cf5
+      internalID: 1333581452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b079151c18b4dcc47af1d3e13c45222e
+      internalID: 527084574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 670
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c793815007ac4c04fab281a77b1b6768
+      internalID: -2053563792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 680
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed88682f8042d4f959ee990f8a36a6
+      internalID: -1145254955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 681
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a930cb22de27449efc0d8ba223704
+      internalID: 9529817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 682
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc619ff180e4dd45b893604bdcd7548
+      internalID: -988701392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 682
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0dba48d1857b54a972d357e109ef1c
+      internalID: 1924891616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 683
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034db668a8e8aa94cb50ef8073727934
+      internalID: 888292481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 684
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ee790dbe8fe454ab0934d8a58e345b
+      internalID: -1668867309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 686
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bbb9c2f92fab040b900fb7414258cf
+      internalID: -1233056014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 686
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8f8b36c2084c54db228b4ff5797260
+      internalID: -1371008988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 687
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04675e892c6ea6f49bd8fc4e1acf4e72
+      internalID: -1919305754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 725
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9977e55e8b23684f9c3316f12b2ccef
+      internalID: 1223044261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 727
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66798ddcc8385547a3f07ceaacf599d
+      internalID: -127502902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 698
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bdd18988e907a4294dedb3a05438cc
+      internalID: 502637879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 709
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a3b25f0237e314fa781c54a74c90f2
+      internalID: 1034427013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 691
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7e3a5aa043184ca28e45a501aaf24
+      internalID: -140964542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283f3cfdbb40ead4c991315bcb3cd98c
+      internalID: 1420614593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 605
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4607a896ca4f78144b072aa27d5bedbe
+      internalID: -573589461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 615
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b85d55005e20e4d8ed5daf825ec219
+      internalID: 1953430705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 616
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d869712c732afa4ab0ee6b26cb8ca3f
+      internalID: 2121132117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 617
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e228660e89bb8ca48a81ed8f76487e87
+      internalID: -1128167135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 617
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f8148647bb7e43b2b2216dd44d856
+      internalID: -940174169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 618
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ed30ade911bf41b19b06d4c9c47eb
+      internalID: 1639674607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 619
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401bc35f56e58a74689431cb3805fbd5
+      internalID: -567522212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 621
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf925d3b5e050a24e949fe3cc0654c18
+      internalID: 71382275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 621
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd649c89fdee9443b184a9af22188e8
+      internalID: -1255219451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 622
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e280a20688224a88f9d017011d5fa
+      internalID: 173347531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 622
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8f31d6be33b14cb23fb3d194ebc9b
+      internalID: -1692208209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 551
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b41874bc787da4ea5c56b003f4226d
+      internalID: 1683132754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 552
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adaa4dd96bec9049951364d59f1417d
+      internalID: 1095424707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 553
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afce12f600b0eca449bcf6209382ce94
+      internalID: 220275775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 553
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6283de703766e84b846ee9dc4c9f6ae
+      internalID: -1051417292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 554
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cffa1bee8008946b481e6f0315dede
+      internalID: 1742149130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 555
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f38797c4f4e284dbb6235c036dda1a
+      internalID: -1943422421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 557
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f659a5ecef55d9458005212dd0a80b8
+      internalID: 971821713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 557
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b6e768f2fb0747a3834f8481bd36d
+      internalID: 749094258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 558
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d521786951522c4fb20ecd18b64bccc
+      internalID: -666338441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 595
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ac17a0c04b824a8157ead52ceb765
+      internalID: 1543474114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 604
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797650580c3d154faef831201fcc356
+      internalID: -1614204936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3226afbf9c301f34aa3ffb9dc6cafe78
+      internalID: -1286447744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 541
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416044a4330b3b45a3079534a1b05dd
+      internalID: 1822881879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 597
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7404738124da09e4097c3e7dc65a1aa7
+      internalID: 2097660029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 577
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abae225d1f807014888e1ea34c189683
+      internalID: 759525799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc79f7ebf0d8fa47aa6ae2647899562
+      internalID: -122843657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 477
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6acf9a7380e89141b7d98f0cf87fd29
+      internalID: 1095069478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 487
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9992df2119e0db4cad087aade3ba8af
+      internalID: -154179044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 488
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e26bb0373df346bd2951d0ed24908
+      internalID: 1756609559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 489
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b62717908e69344bbce752619b203e6
+      internalID: 414315329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 489
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d0abbcd16fd6498166c38e6c0bfb8
+      internalID: 408575124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 490
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9980a13e3af958448401c8175e7e08b
+      internalID: 413621444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 491
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245e1dd432251c14f89a38ba1e1f33d1
+      internalID: 913101763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 493
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60628841d64cff44dbec6f71dba824b9
+      internalID: 351281167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 494
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9ad2d9724b17e4f8ec09e67118c864
+      internalID: -157937409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 495
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4ecf7bd07e00c48b7a9c70e3630526
+      internalID: -1148648451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9c6c74e68f6844a212c83e3d94849
+      internalID: -832639870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 414
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833fab3baa3008647b1c08e512ff213e
+      internalID: 605201400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 424
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c25f09459def1448b6b16382f2fc7d5
+      internalID: -2034974286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 425
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344e944698af68c4ba4e21cc89c8bc32
+      internalID: -355723007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 426
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded2bba6e324c2d4891d493a9e04416f
+      internalID: -889050018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 426
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5f01726af8b9949b523aebfd8a43e9
+      internalID: -2051220654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 427
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0595fc5e92e065418f8e458feb00731
+      internalID: 2077219885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 428
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa44c97f5051c54ba101031de91749d
+      internalID: -1132612516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 431
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885b85d0c54426d4dbdabad982f0ca39
+      internalID: 545263469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 432
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07409b2d67b7e34a8bc8c3068bac5d5
+      internalID: -1586334701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 433
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bec19db9ea40046ac8f0608d382419
+      internalID: -535385682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53c3514ab4282e49b83fbf568a0bc7a
+      internalID: 1707005821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 352
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6b9d01648d39c4792ef6d08181b0bf
+      internalID: 1544425856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 363
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f99c4dfc13283b419854e0ca99a0300
+      internalID: 1392749523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 364
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e22a3093890644ad0e722059616e8
+      internalID: -2031435936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 365
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10161c25b8e56c74aab309b32e7ec642
+      internalID: -1215669130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 366
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8324ffe2205dfe848b6876abd7f00531
+      internalID: -2020444193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Minotaur_Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 378
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3804dd33f4f04b9aad4688ec2bcb4
+      internalID: 1745048598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boss_Minotaur_Spritesheet_47: 156977360
+      Boss_Minotaur_Spritesheet_113: 545263469
+      Boss_Minotaur_Spritesheet_64: 502637879
+      Boss_Minotaur_Spritesheet_118: 1392749523
+      Boss_Minotaur_Spritesheet_54: 9529817
+      Boss_Minotaur_Spritesheet_71: -1128167135
+      Boss_Minotaur_Spritesheet_76: -1255219451
+      Boss_Minotaur_Spritesheet_3: 144006179
+      Boss_Minotaur_Spritesheet_2: 545040663
+      Boss_Minotaur_Spritesheet_111: 2077219885
+      Boss_Minotaur_Spritesheet_14: 882445385
+      Boss_Minotaur_Spritesheet_65: 1034427013
+      Boss_Minotaur_Spritesheet_40: -1313256688
+      Boss_Minotaur_Spritesheet_24: 1676122596
+      Boss_Minotaur_Spritesheet_67: 1420614593
+      Boss_Minotaur_Spritesheet_29: 49999551
+      Boss_Minotaur_Spritesheet_108: -355723007
+      Boss_Minotaur_Spritesheet_105: -832639870
+      Boss_Minotaur_Spritesheet_23: -841045772
+      Boss_Minotaur_Spritesheet_80: 1095424707
+      Boss_Minotaur_Spritesheet_114: -1586334701
+      Boss_Minotaur_Spritesheet_5: 1020033258
+      Boss_Minotaur_Spritesheet_8: 746725451
+      Boss_Minotaur_Spritesheet_33: 1048193178
+      Boss_Minotaur_Spritesheet_1: -18273455
+      Boss_Minotaur_Spritesheet_81: 220275775
+      Boss_Minotaur_Spritesheet_36: -6666748
+      Boss_Minotaur_Spritesheet_115: -535385682
+      Boss_Minotaur_Spritesheet_30: -1035188352
+      Boss_Minotaur_Spritesheet_104: -1148648451
+      Boss_Minotaur_Spritesheet_79: 1683132754
+      Boss_Minotaur_Spritesheet_20: 2089528863
+      Boss_Minotaur_Spritesheet_0: 741924626
+      Boss_Minotaur_Spritesheet_53: -1145254955
+      Boss_Minotaur_Spritesheet_75: 71382275
+      Boss_Minotaur_Spritesheet_63: -127502902
+      Boss_Minotaur_Spritesheet_94: -122843657
+      Boss_Minotaur_Spritesheet_78: -1692208209
+      Boss_Minotaur_Spritesheet_57: 888292481
+      Boss_Minotaur_Spritesheet_10: -1970083267
+      Boss_Minotaur_Spritesheet_13: -391474940
+      Boss_Minotaur_Spritesheet_39: -179788910
+      Boss_Minotaur_Spritesheet_49: 1696415093
+      Boss_Minotaur_Spritesheet_21: -364541178
+      Boss_Minotaur_Spritesheet_97: 1756609559
+      Boss_Minotaur_Spritesheet_58: -1668867309
+      Boss_Minotaur_Spritesheet_32: 311568286
+      Boss_Minotaur_Spritesheet_93: 759525799
+      Boss_Minotaur_Spritesheet_77: 173347531
+      Boss_Minotaur_Spritesheet_74: -567522212
+      Boss_Minotaur_Spritesheet_38: 1523036260
+      Boss_Minotaur_Spritesheet_112: -1132612516
+      Boss_Minotaur_Spritesheet_84: -1943422421
+      Boss_Minotaur_Spritesheet_69: 1953430705
+      Boss_Minotaur_Spritesheet_35: 1595239331
+      Boss_Minotaur_Spritesheet_12: 271581087
+      Boss_Minotaur_Spritesheet_83: 1742149130
+      Boss_Minotaur_Spritesheet_107: -2034974286
+      Boss_Minotaur_Spritesheet_11: 1605059696
+      Boss_Minotaur_Spritesheet_62: 1223044261
+      Boss_Minotaur_Spritesheet_100: 413621444
+      Boss_Minotaur_Spritesheet_48: 914008592
+      Boss_Minotaur_Spritesheet_9: 1152881792
+      Boss_Minotaur_Spritesheet_68: -573589461
+      Boss_Minotaur_Spritesheet_28: 1690381383
+      Boss_Minotaur_Spritesheet_106: 605201400
+      Boss_Minotaur_Spritesheet_85: 971821713
+      Boss_Minotaur_Spritesheet_88: 1543474114
+      Boss_Minotaur_Spritesheet_95: 1095069478
+      Boss_Minotaur_Spritesheet_37: 1399092635
+      Boss_Minotaur_Spritesheet_122: 1745048598
+      Boss_Minotaur_Spritesheet_22: -924823732
+      Boss_Minotaur_Spritesheet_43: -1935683511
+      Boss_Minotaur_Spritesheet_17: -605218618
+      Boss_Minotaur_Spritesheet_86: 749094258
+      Boss_Minotaur_Spritesheet_90: -1286447744
+      Boss_Minotaur_Spritesheet_6: 248236860
+      Boss_Minotaur_Spritesheet_42: 751626757
+      Boss_Minotaur_Spritesheet_44: 961558341
+      Boss_Minotaur_Spritesheet_26: 1686125457
+      Boss_Minotaur_Spritesheet_102: 351281167
+      Boss_Minotaur_Spritesheet_46: 200449558
+      Boss_Minotaur_Spritesheet_15: 154370904
+      Boss_Minotaur_Spritesheet_4: 1737125506
+      Boss_Minotaur_Spritesheet_61: -1919305754
+      Boss_Minotaur_Spritesheet_34: 860309823
+      Boss_Minotaur_Spritesheet_119: -2031435936
+      Boss_Minotaur_Spritesheet_117: 1544425856
+      Boss_Minotaur_Spritesheet_73: 1639674607
+      Boss_Minotaur_Spritesheet_120: -1215669130
+      Boss_Minotaur_Spritesheet_96: -154179044
+      Boss_Minotaur_Spritesheet_116: 1707005821
+      Boss_Minotaur_Spritesheet_103: -157937409
+      Boss_Minotaur_Spritesheet_50: 1333581452
+      Boss_Minotaur_Spritesheet_55: -988701392
+      Boss_Minotaur_Spritesheet_51: 527084574
+      Boss_Minotaur_Spritesheet_27: 411631328
+      Boss_Minotaur_Spritesheet_87: -666338441
+      Boss_Minotaur_Spritesheet_101: 913101763
+      Boss_Minotaur_Spritesheet_72: -940174169
+      Boss_Minotaur_Spritesheet_89: -1614204936
+      Boss_Minotaur_Spritesheet_18: 1868237267
+      Boss_Minotaur_Spritesheet_19: -669146046
+      Boss_Minotaur_Spritesheet_82: -1051417292
+      Boss_Minotaur_Spritesheet_59: -1233056014
+      Boss_Minotaur_Spritesheet_7: 181848239
+      Boss_Minotaur_Spritesheet_52: -2053563792
+      Boss_Minotaur_Spritesheet_70: 2121132117
+      Boss_Minotaur_Spritesheet_92: 2097660029
+      Boss_Minotaur_Spritesheet_91: 1822881879
+      Boss_Minotaur_Spritesheet_25: 998371733
+      Boss_Minotaur_Spritesheet_99: 408575124
+      Boss_Minotaur_Spritesheet_110: -2051220654
+      Boss_Minotaur_Spritesheet_31: -912261474
+      Boss_Minotaur_Spritesheet_60: -1371008988
+      Boss_Minotaur_Spritesheet_66: -140964542
+      Boss_Minotaur_Spritesheet_45: 1297119788
+      Boss_Minotaur_Spritesheet_16: 1677644778
+      Boss_Minotaur_Spritesheet_56: 1924891616
+      Boss_Minotaur_Spritesheet_109: -889050018
+      Boss_Minotaur_Spritesheet_121: -2020444193
+      Boss_Minotaur_Spritesheet_41: 644620266
+      Boss_Minotaur_Spritesheet_98: 414315329
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
