@@ -26,7 +26,6 @@ public class PlayerMovement : MonoBehaviour
     }
     private void OnTriggerStay2D(Collider2D other)
     {
-        //Transform oTransform = other.GetComponent<Transform>();
         SpriteRenderer oRenderer = other.GetComponent<SpriteRenderer>();
         float oTransform = other.transform.position.y;
         
@@ -38,7 +37,6 @@ public class PlayerMovement : MonoBehaviour
         if (isback)
         {
             _spriteRenderer.sortingOrder = oRenderer.sortingOrder - 2;
-            //Debug.Log($"Stay - Other : {other.name}, {_spriteRenderer.sortingOrder}");
         }
     }
 
@@ -46,7 +44,6 @@ public class PlayerMovement : MonoBehaviour
     {
         _spriteRenderer.sortingOrder = 10;
         isback = false;
-        //Debug.Log($"Exit - Other : {other.name}, {_spriteRenderer.sortingOrder}");
     }
 
     void Update()
@@ -70,22 +67,18 @@ public class PlayerMovement : MonoBehaviour
         if (_input.CanAttack)
         {
             _skill.Attack();
-            //Debug.Log("공격");
         }
         if (_input.CanDefense)
         {
             _skill.Defense();
-            //Debug.Log("방어");
         }
         if (_input.CanSpecialAttack)
         {
             _skill.SpecialAttack();
-            //Debug.Log("특수 공격");
         }
         if (_input.CanDodge)
         {
             _skill.Dodge();
-            //Debug.Log("회피");
         }
 
 

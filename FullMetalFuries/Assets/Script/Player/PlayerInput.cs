@@ -16,7 +16,7 @@ public class PlayerInput : MonoBehaviour
 
     void Update()
     {
-        Up = Down = Left = Right = CanAttack = CanDefense = CanSpecialAttack = CanDodge = false;
+        Up = Down = Left = Right = false;
 
         Up = Input.GetKey(KeyCode.W);
         Down = Input.GetKey(KeyCode.S);
