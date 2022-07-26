@@ -38,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
         if (isback)
         {
             _spriteRenderer.sortingOrder = oRenderer.sortingOrder - 2;
-            Debug.Log($"Stay - Other : {other.name}, {_spriteRenderer.sortingOrder}");
+            //Debug.Log($"Stay - Other : {other.name}, {_spriteRenderer.sortingOrder}");
         }
     }
 
@@ -46,12 +46,11 @@ public class PlayerMovement : MonoBehaviour
     {
         _spriteRenderer.sortingOrder = 10;
         isback = false;
-        Debug.Log($"Exit - Other : {other.name}, {_spriteRenderer.sortingOrder}");
+        //Debug.Log($"Exit - Other : {other.name}, {_spriteRenderer.sortingOrder}");
     }
 
     void Update()
     {
-        //_rigidbody.AddForce(new Vector2(0f, MoveSpeed));
         if (_input.Up)
         {
             _rigidbody.AddForce(new Vector2(0, MoveSpeed));
@@ -70,21 +69,23 @@ public class PlayerMovement : MonoBehaviour
         }
         if (_input.CanAttack)
         {
-            //_animator.SetTrigger("attack");
             _skill.Attack();
-            Debug.Log($"클릭");
+            //Debug.Log("공격");
         }
         if (_input.CanDefense)
         {
-            Debug.Log("방어");
+            _skill.Defense();
+            //Debug.Log("방어");
         }
         if (_input.CanSpecialAttack)
         {
-            Debug.Log("특수 공격");
+            _skill.SpecialAttack();
+            //Debug.Log("특수 공격");
         }
         if (_input.CanDodge)
         {
-            Debug.Log("회피");
+            _skill.Dodge();
+            //Debug.Log("회피");
         }
 
 
