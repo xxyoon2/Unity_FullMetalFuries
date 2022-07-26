@@ -119,19 +119,19 @@ TextureImporter:
       name: playerTankSpritesheet_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 617
-        width: 32
-        height: 33
+        x: 21
+        y: 608
+        width: 31
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23686a2b448c64dcc9c5ef5e6ce19273
-      internalID: 1231131172
+      spriteID: a4be6bffaff584d759aea5a2bd6576d1
+      internalID: -223099982
       vertices: []
       indices: 
       edges: []
@@ -140,19 +140,19 @@ TextureImporter:
       name: playerTankSpritesheet_1
       rect:
         serializedVersion: 2
-        x: 42
-        y: 617
+        x: 64
+        y: 607
         width: 31
-        height: 33
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd7bf805e01514a518e9c217b7ffa522
-      internalID: -27935559
+      spriteID: bf7422d4e740d44b392b41a78154b982
+      internalID: -708487458
       vertices: []
       indices: 
       edges: []
@@ -161,19 +161,19 @@ TextureImporter:
       name: playerTankSpritesheet_2
       rect:
         serializedVersion: 2
-        x: 74
-        y: 617
+        x: 106
+        y: 606
         width: 31
-        height: 33
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74e2f681a2dd74dbea72fdfb5af52cc5
-      internalID: 1727697938
+      spriteID: 012933af53f6d415bb24554ab929014d
+      internalID: -1672784311
       vertices: []
       indices: 
       edges: []
@@ -182,19 +182,19 @@ TextureImporter:
       name: playerTankSpritesheet_3
       rect:
         serializedVersion: 2
-        x: 106
-        y: 617
+        x: 151
+        y: 606
         width: 31
         height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 874da9737ba484cd6b488bc8d968ab07
-      internalID: -235138100
+      spriteID: c653fd606bf64481da712c0fd42cfe8d
+      internalID: 573123566
       vertices: []
       indices: 
       edges: []
@@ -203,19 +203,19 @@ TextureImporter:
       name: playerTankSpritesheet_4
       rect:
         serializedVersion: 2
-        x: 138
-        y: 617
+        x: 196
+        y: 605
         width: 31
         height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9cad1c013fc24ee98a3cc1097ca8aeb
-      internalID: 622131023
+      spriteID: 4ebb59e4eaba44db29be867024d316cb
+      internalID: -365640030
       vertices: []
       indices: 
       edges: []
@@ -224,19 +224,19 @@ TextureImporter:
       name: playerTankSpritesheet_5
       rect:
         serializedVersion: 2
-        x: 174
-        y: 617
-        width: 32
+        x: 241
+        y: 606
+        width: 31
         height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87246a8357037465fb33f3905bbd894f
-      internalID: 1533791115
+      spriteID: 1d3ebcc75ae8e44c6b32a31bb27a275b
+      internalID: -334353091
       vertices: []
       indices: 
       edges: []
@@ -245,19 +245,19 @@ TextureImporter:
       name: playerTankSpritesheet_6
       rect:
         serializedVersion: 2
-        x: 403
-        y: 602
-        width: 43
-        height: 37
+        x: 288
+        y: 606
+        width: 31
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32bf9aaa6cbc34b96822413676026fa2
-      internalID: 1597543400
+      spriteID: f797d3fcff5d0471f8536fc9ff0fd100
+      internalID: 494845064
       vertices: []
       indices: 
       edges: []
@@ -266,19 +266,19 @@ TextureImporter:
       name: playerTankSpritesheet_7
       rect:
         serializedVersion: 2
-        x: 457
-        y: 602
-        width: 34
-        height: 37
+        x: 336
+        y: 605
+        width: 32
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c95f3e19c135541229d38c1183f81cc7
-      internalID: -1269573630
+      spriteID: 894a1a26cbbc34b14a99372c663b873f
+      internalID: 242681142
       vertices: []
       indices: 
       edges: []
@@ -287,19 +287,19 @@ TextureImporter:
       name: playerTankSpritesheet_8
       rect:
         serializedVersion: 2
-        x: 10
-        y: 561
-        width: 29
-        height: 37
+        x: 381
+        y: 605
+        width: 32
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d34544bd2354d418ebc3ce5340b6cf72
-      internalID: 943756249
+      spriteID: 6fa75b0d1c71340aab4ff21db9f0caab
+      internalID: -1618364434
       vertices: []
       indices: 
       edges: []
@@ -308,19 +308,19 @@ TextureImporter:
       name: playerTankSpritesheet_9
       rect:
         serializedVersion: 2
-        x: 45
-        y: 560
+        x: 427
+        y: 606
         width: 31
-        height: 38
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3b81df78e6e14d31890010fbf2f1ffc
-      internalID: 1625112780
+      spriteID: d9062a0f2e8a24065bff40ef129f0b1c
+      internalID: -1438022717
       vertices: []
       indices: 
       edges: []
@@ -329,19 +329,19 @@ TextureImporter:
       name: playerTankSpritesheet_10
       rect:
         serializedVersion: 2
-        x: 80
-        y: 560
-        width: 29
-        height: 38
+        x: 470
+        y: 608
+        width: 31
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf63e636107be4964a0af615192268ee
-      internalID: -1220691464
+      spriteID: c628221b07a654982adf25b61a380ff1
+      internalID: -1142493305
       vertices: []
       indices: 
       edges: []
@@ -350,19 +350,19 @@ TextureImporter:
       name: playerTankSpritesheet_11
       rect:
         serializedVersion: 2
-        x: 115
-        y: 559
-        width: 43
-        height: 41
+        x: 515
+        y: 608
+        width: 31
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4129ddf7e964647c99f3ce99e7890ac7
-      internalID: 352154161
+      spriteID: 90cf1f7c17e9d439799ef45ead3485e3
+      internalID: -1973637219
       vertices: []
       indices: 
       edges: []
@@ -371,19 +371,19 @@ TextureImporter:
       name: playerTankSpritesheet_12
       rect:
         serializedVersion: 2
-        x: 169
-        y: 561
-        width: 43
-        height: 37
+        x: 562
+        y: 606
+        width: 31
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e731b75a526184c7ba9602af6b91ea32
-      internalID: -1727746454
+      spriteID: 38abe62e924954ec7931965111ba0caa
+      internalID: 142422844
       vertices: []
       indices: 
       edges: []
@@ -392,19 +392,19 @@ TextureImporter:
       name: playerTankSpritesheet_13
       rect:
         serializedVersion: 2
-        x: 226
-        y: 557
-        width: 41
+        x: 607
+        y: 607
+        width: 31
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee365520685b44d268e3f334195582cb
-      internalID: -555475889
+      spriteID: 565bf3670587647b2857a550eb370ec3
+      internalID: -1335170291
       vertices: []
       indices: 
       edges: []
@@ -413,19 +413,19 @@ TextureImporter:
       name: playerTankSpritesheet_14
       rect:
         serializedVersion: 2
-        x: 284
-        y: 557
-        width: 39
-        height: 30
+        x: 651
+        y: 607
+        width: 31
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 831c1c3c85443436bacd8795a0205d6b
-      internalID: -242615899
+      spriteID: c3c890a12e627486aa09539750700a6b
+      internalID: 1731158153
       vertices: []
       indices: 
       edges: []
@@ -434,19 +434,19 @@ TextureImporter:
       name: playerTankSpritesheet_15
       rect:
         serializedVersion: 2
-        x: 330
-        y: 557
-        width: 38
-        height: 29
+        x: 17
+        y: 552
+        width: 29
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f189114f757e471a9a2f2c15b02ca6b
-      internalID: -848408396
+      spriteID: 9b3917258458143e3bcc30783811062c
+      internalID: 1905574449
       vertices: []
       indices: 
       edges: []
@@ -455,19 +455,19 @@ TextureImporter:
       name: playerTankSpritesheet_16
       rect:
         serializedVersion: 2
-        x: 375
-        y: 557
-        width: 30
-        height: 32
+        x: 50
+        y: 551
+        width: 27
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b4aabad676bf4890930696421e67fd7
-      internalID: 353721985
+      spriteID: c5f14280e769e4c1b936dc9c4a4e79bf
+      internalID: -228735399
       vertices: []
       indices: 
       edges: []
@@ -476,19 +476,19 @@ TextureImporter:
       name: playerTankSpritesheet_17
       rect:
         serializedVersion: 2
-        x: 409
-        y: 557
-        width: 35
-        height: 32
+        x: 87
+        y: 550
+        width: 26
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7470058fc6914a7e99de0fdea4a3b84
-      internalID: 1751424587
+      spriteID: fce3618a0ae354e779d240faf1618548
+      internalID: -1129206257
       vertices: []
       indices: 
       edges: []
@@ -497,19 +497,19 @@ TextureImporter:
       name: playerTankSpritesheet_18
       rect:
         serializedVersion: 2
-        x: 24
-        y: 513
-        width: 40
-        height: 30
+        x: 121
+        y: 551
+        width: 27
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f47f15b2b07b6433c8601b562a545fe1
-      internalID: 1977378998
+      spriteID: 6c741d153131441fb916d02bec19708a
+      internalID: -1800381900
       vertices: []
       indices: 
       edges: []
@@ -518,19 +518,19 @@ TextureImporter:
       name: playerTankSpritesheet_19
       rect:
         serializedVersion: 2
-        x: 71
-        y: 509
-        width: 41
-        height: 36
+        x: 154
+        y: 553
+        width: 29
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bda9a89cedaa9421aa67afc7f284c0af
-      internalID: -504007532
+      spriteID: 9930f30d5556d46fbb5067c0182bc605
+      internalID: 243238766
       vertices: []
       indices: 
       edges: []
@@ -539,19 +539,19 @@ TextureImporter:
       name: playerTankSpritesheet_20
       rect:
         serializedVersion: 2
-        x: 120
-        y: 509
-        width: 41
-        height: 34
+        x: 188
+        y: 554
+        width: 30
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7603b36d21f4740898aa5ac5d710f36e
-      internalID: 399109265
+      spriteID: 8db0d550ea5bd446c90efa6034777f4e
+      internalID: 606405273
       vertices: []
       indices: 
       edges: []
@@ -560,19 +560,19 @@ TextureImporter:
       name: playerTankSpritesheet_21
       rect:
         serializedVersion: 2
-        x: 170
-        y: 512
-        width: 43
-        height: 29
+        x: 228
+        y: 553
+        width: 27
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f118cd35be18a468e8d5434fc7570c7f
-      internalID: -1288648094
+      spriteID: 51930c6009e9e4927aa4cfbe39fc005a
+      internalID: -775541583
       vertices: []
       indices: 
       edges: []
@@ -581,19 +581,19 @@ TextureImporter:
       name: playerTankSpritesheet_22
       rect:
         serializedVersion: 2
-        x: 383
-        y: 500
-        width: 38
-        height: 33
+        x: 264
+        y: 551
+        width: 25
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14e7b56ddbf0e4b23937130a855917ea
-      internalID: 1729296927
+      spriteID: d5cd109c7c9d5401880ccf9ebd7ee81d
+      internalID: -1736283315
       vertices: []
       indices: 
       edges: []
@@ -602,19 +602,19 @@ TextureImporter:
       name: playerTankSpritesheet_23
       rect:
         serializedVersion: 2
-        x: 432
-        y: 497
-        width: 32
-        height: 34
+        x: 21
+        y: 501
+        width: 36
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cdc20b1901ec64d32abca1ebf076faf0
-      internalID: 1346415577
+      spriteID: d60b6236f3471475eb4ab595b8228b13
+      internalID: 1745369739
       vertices: []
       indices: 
       edges: []
@@ -623,19 +623,19 @@ TextureImporter:
       name: playerTankSpritesheet_24
       rect:
         serializedVersion: 2
-        x: 36
-        y: 452
-        width: 34
-        height: 36
+        x: 65
+        y: 501
+        width: 36
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72d9035faa228400bb7715eb2a2990a3
-      internalID: -839078964
+      spriteID: 3762d9e46161c4aa4a7d57014c7795fb
+      internalID: -234331119
       vertices: []
       indices: 
       edges: []
@@ -644,19 +644,19 @@ TextureImporter:
       name: playerTankSpritesheet_25
       rect:
         serializedVersion: 2
-        x: 82
-        y: 451
-        width: 43
-        height: 36
+        x: 113
+        y: 502
+        width: 39
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5af779e3c186e467d9d7df98420fbeec
-      internalID: 482826960
+      spriteID: bb7bcd7c0336148cf9cab6599865b865
+      internalID: -2118963355
       vertices: []
       indices: 
       edges: []
@@ -665,19 +665,19 @@ TextureImporter:
       name: playerTankSpritesheet_26
       rect:
         serializedVersion: 2
-        x: 136
-        y: 454
-        width: 40
-        height: 33
+        x: 163
+        y: 501
+        width: 42
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e42f0ea819da4969aaeec550d287a9e
-      internalID: -478459551
+      spriteID: fd4b6d2f6a23947c1994629972ee2128
+      internalID: -41257401
       vertices: []
       indices: 
       edges: []
@@ -686,19 +686,19 @@ TextureImporter:
       name: playerTankSpritesheet_27
       rect:
         serializedVersion: 2
-        x: 334
-        y: 444
-        width: 31
-        height: 33
+        x: 216
+        y: 501
+        width: 28
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dee4a2f486b804367a6eab10de3a1ff8
-      internalID: -951560913
+      spriteID: 00dd44be77c8b491fb9609f395fa6a98
+      internalID: -2056290307
       vertices: []
       indices: 
       edges: []
@@ -707,19 +707,19 @@ TextureImporter:
       name: playerTankSpritesheet_28
       rect:
         serializedVersion: 2
-        x: 373
-        y: 444
-        width: 33
-        height: 34
+        x: 351
+        y: 495
+        width: 28
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b73aa66fcf3d4cf5b0c70ec70e0315e
-      internalID: -2067298303
+      spriteID: f477f90c787be460286b6e2af53a06e3
+      internalID: 1078602593
       vertices: []
       indices: 
       edges: []
@@ -728,19 +728,19 @@ TextureImporter:
       name: playerTankSpritesheet_29
       rect:
         serializedVersion: 2
-        x: 415
-        y: 444
-        width: 31
-        height: 34
+        x: 390
+        y: 495
+        width: 28
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c52a09fecaa1d46bb870cc8d340d46fd
-      internalID: 1141174476
+      spriteID: 122063dfc1e724bc3ab719ed0ac99c7a
+      internalID: 2041301606
       vertices: []
       indices: 
       edges: []
@@ -749,19 +749,19 @@ TextureImporter:
       name: playerTankSpritesheet_30
       rect:
         serializedVersion: 2
-        x: 456
-        y: 446
-        width: 33
-        height: 33
+        x: 431
+        y: 495
+        width: 43
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df7f7bd8dfeca456ebd29c40a08de1c4
-      internalID: 2055890152
+      spriteID: 77d4e349bf5744ab0b8af6e8746f06d6
+      internalID: 1319760711
       vertices: []
       indices: 
       edges: []
@@ -770,19 +770,19 @@ TextureImporter:
       name: playerTankSpritesheet_31
       rect:
         serializedVersion: 2
-        x: 7
-        y: 398
-        width: 30
-        height: 33
+        x: 487
+        y: 494
+        width: 44
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdcbac52cc09d4ceaaa9200b2126da26
-      internalID: -967306261
+      spriteID: d4433dacbeff348d69eef4cdefe88f5b
+      internalID: 813901666
       vertices: []
       indices: 
       edges: []
@@ -791,19 +791,19 @@ TextureImporter:
       name: playerTankSpritesheet_32
       rect:
         serializedVersion: 2
-        x: 38
-        y: 398
+        x: 549
+        y: 495
         width: 30
-        height: 33
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 410fda76ed1364e89a8da0a5267f417c
-      internalID: -1012926819
+      spriteID: fee2171c8f3624c3eae24972f2fc8146
+      internalID: -1857309870
       vertices: []
       indices: 
       edges: []
@@ -812,19 +812,19 @@ TextureImporter:
       name: playerTankSpritesheet_33
       rect:
         serializedVersion: 2
-        x: 69
-        y: 398
+        x: 27
+        y: 445
         width: 30
-        height: 33
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28f3d1909ecc74fdd87a0aed6c0dc094
-      internalID: 1020183508
+      spriteID: d1b5dc99fbf2d4b8eaa9658a48892bee
+      internalID: 481696548
       vertices: []
       indices: 
       edges: []
@@ -833,19 +833,19 @@ TextureImporter:
       name: playerTankSpritesheet_34
       rect:
         serializedVersion: 2
-        x: 100
-        y: 398
-        width: 30
-        height: 33
+        x: 70
+        y: 446
+        width: 29
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9d7877cdb3e74d4e88f12ece2020a93
-      internalID: 690860618
+      spriteID: 574340a3d3bdb48e9bcb95b2e0120e79
+      internalID: 825954991
       vertices: []
       indices: 
       edges: []
@@ -854,19 +854,19 @@ TextureImporter:
       name: playerTankSpritesheet_35
       rect:
         serializedVersion: 2
-        x: 131
-        y: 398
-        width: 30
-        height: 33
+        x: 110
+        y: 442
+        width: 43
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43db1dab09a2a4f9084c656ae6631695
-      internalID: -2111424326
+      spriteID: 5586234ceaa9a47078e2191161b9ce5d
+      internalID: 1581362674
       vertices: []
       indices: 
       edges: []
@@ -876,18 +876,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 167
-        y: 399
-        width: 30
-        height: 33
+        y: 439
+        width: 41
+        height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78175b4603daa4ab0b8605ecbaec331a
-      internalID: 132188664
+      spriteID: 305e4a9f35a7846508e970c1840f02ed
+      internalID: 480438492
       vertices: []
       indices: 
       edges: []
@@ -896,19 +896,19 @@ TextureImporter:
       name: playerTankSpritesheet_37
       rect:
         serializedVersion: 2
-        x: 206
-        y: 399
-        width: 30
-        height: 32
+        x: 231
+        y: 446
+        width: 40
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 597eb759a374f45d8967a396e382f45e
-      internalID: -25604491
+      spriteID: 1c0b65bde329b41e0949a4d09604899d
+      internalID: -1325102094
       vertices: []
       indices: 
       edges: []
@@ -917,19 +917,19 @@ TextureImporter:
       name: playerTankSpritesheet_38
       rect:
         serializedVersion: 2
-        x: 237
-        y: 399
-        width: 30
-        height: 32
+        x: 280
+        y: 445
+        width: 40
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fee55f5071dc74883aac0ecaf8fb2c72
-      internalID: -995945260
+      spriteID: b6a188a73d692456fb0f3057181032a7
+      internalID: 719390230
       vertices: []
       indices: 
       edges: []
@@ -938,19 +938,19 @@ TextureImporter:
       name: playerTankSpritesheet_39
       rect:
         serializedVersion: 2
-        x: 268
-        y: 399
-        width: 30
-        height: 32
+        x: 332
+        y: 444
+        width: 40
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 216a802d8855340168fb380cc979a739
-      internalID: 1197448144
+      spriteID: 093ad168d8f13400a9d65329c074d358
+      internalID: 556061515
       vertices: []
       indices: 
       edges: []
@@ -959,19 +959,19 @@ TextureImporter:
       name: playerTankSpritesheet_40
       rect:
         serializedVersion: 2
-        x: 439
-        y: 370
-        width: 31
-        height: 32
+        x: 388
+        y: 444
+        width: 40
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcc038e6a78494adc90e2085473176cd
-      internalID: -2106967875
+      spriteID: 613ea43cd702145fcb3aa92bf1bc91d3
+      internalID: 1838215008
       vertices: []
       indices: 
       edges: []
@@ -980,19 +980,19 @@ TextureImporter:
       name: playerTankSpritesheet_41
       rect:
         serializedVersion: 2
-        x: 471
-        y: 373
-        width: 31
-        height: 32
+        x: 439
+        y: 444
+        width: 33
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8795fa4f4fc244ad1a04ebf82d208a2d
-      internalID: 1057253099
+      spriteID: ee343a66b0fe741e0a88e9e88661cc91
+      internalID: -783193235
       vertices: []
       indices: 
       edges: []
@@ -1001,19 +1001,19 @@ TextureImporter:
       name: playerTankSpritesheet_42
       rect:
         serializedVersion: 2
-        x: 49
-        y: 346
-        width: 26
-        height: 33
+        x: 24
+        y: 391
+        width: 30
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03805404fb84f4bf08d85b11e0fb9bdb
-      internalID: 1762299433
+      spriteID: 3ad6fbeba94f64f109fc4ba730142642
+      internalID: 1599463702
       vertices: []
       indices: 
       edges: []
@@ -1022,19 +1022,19 @@ TextureImporter:
       name: playerTankSpritesheet_43
       rect:
         serializedVersion: 2
-        x: 82
-        y: 346
-        width: 26
-        height: 33
+        x: 65
+        y: 391
+        width: 30
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fda82951919b447fd97d58e2ab128975
-      internalID: -773501847
+      spriteID: 58c89b85620e3471c97dc89072506bfb
+      internalID: 1311293276
       vertices: []
       indices: 
       edges: []
@@ -1043,19 +1043,19 @@ TextureImporter:
       name: playerTankSpritesheet_44
       rect:
         serializedVersion: 2
-        x: 225
-        y: 331
-        width: 33
-        height: 32
+        x: 105
+        y: 390
+        width: 30
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e22d2437e281248d2847a44fb04afef0
-      internalID: 1652230617
+      spriteID: 2210604a9305440a69555e3ed9c8c623
+      internalID: -1518934048
       vertices: []
       indices: 
       edges: []
@@ -1064,19 +1064,19 @@ TextureImporter:
       name: playerTankSpritesheet_45
       rect:
         serializedVersion: 2
-        x: 293
-        y: 331
-        width: 33
-        height: 32
+        x: 146
+        y: 390
+        width: 30
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5351a5eceb61241f590d8b83e0308cad
-      internalID: 1123747920
+      spriteID: 04d966579a9f74af59478607780b7124
+      internalID: 1932558151
       vertices: []
       indices: 
       edges: []
@@ -1085,19 +1085,19 @@ TextureImporter:
       name: playerTankSpritesheet_46
       rect:
         serializedVersion: 2
-        x: 327
-        y: 331
-        width: 33
-        height: 32
+        x: 187
+        y: 391
+        width: 30
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20e4395a474ee441fb9d1f2584af6d85
-      internalID: 2067434461
+      spriteID: 28ee87fe745d34c5da3fc21fa8c62df1
+      internalID: -495279474
       vertices: []
       indices: 
       edges: []
@@ -1106,19 +1106,19 @@ TextureImporter:
       name: playerTankSpritesheet_47
       rect:
         serializedVersion: 2
-        x: 361
-        y: 338
-        width: 31
-        height: 32
+        x: 229
+        y: 391
+        width: 30
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bf4daf36360e486997cf22a7b147472
-      internalID: 1671561638
+      spriteID: b7ddc29180bb849daaad4104c414c106
+      internalID: 1713937953
       vertices: []
       indices: 
       edges: []
@@ -1127,19 +1127,19 @@ TextureImporter:
       name: playerTankSpritesheet_48
       rect:
         serializedVersion: 2
-        x: 393
-        y: 353
-        width: 31
-        height: 32
+        x: 270
+        y: 392
+        width: 30
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 140990721fbdf43cd8ff1413c127816e
-      internalID: -341849839
+      spriteID: c220aebc5718c4b5588fd60cf2b8a88e
+      internalID: -1179379745
       vertices: []
       indices: 
       edges: []
@@ -1148,19 +1148,19 @@ TextureImporter:
       name: playerTankSpritesheet_49
       rect:
         serializedVersion: 2
-        x: 162
-        y: 297
+        x: 310
+        y: 392
         width: 30
-        height: 32
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38cc05273fb0740c58fa9ac79cef7e25
-      internalID: -1707152124
+      spriteID: ccfe397a540494af08dc82da0f8d99a9
+      internalID: 1876727793
       vertices: []
       indices: 
       edges: []
@@ -1169,19 +1169,19 @@ TextureImporter:
       name: playerTankSpritesheet_50
       rect:
         serializedVersion: 2
-        x: 193
-        y: 298
+        x: 348
+        y: 393
         width: 30
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f73b661d3bcd140a6ad5832c37f3a3fa
-      internalID: -398895907
+      spriteID: 798ce98f9f1304b5b8ec4d69490c6647
+      internalID: 87838137
       vertices: []
       indices: 
       edges: []
@@ -1190,19 +1190,19 @@ TextureImporter:
       name: playerTankSpritesheet_51
       rect:
         serializedVersion: 2
-        x: 224
-        y: 298
-        width: 28
-        height: 32
+        x: 388
+        y: 394
+        width: 30
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06553ecfc9d9646cb98623960ad6b12d
-      internalID: -489107253
+      spriteID: 7a93d2c947d21414b9d20523b53eb4c0
+      internalID: -285380317
       vertices: []
       indices: 
       edges: []
@@ -1211,19 +1211,19 @@ TextureImporter:
       name: playerTankSpritesheet_52
       rect:
         serializedVersion: 2
-        x: 253
-        y: 298
-        width: 28
-        height: 32
+        x: 427
+        y: 394
+        width: 30
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43a8c0653883443e2bfba439462d6144
-      internalID: 1126872785
+      spriteID: 4962a069be7c7401b9c743d6f11f4b3c
+      internalID: -487946169
       vertices: []
       indices: 
       edges: []
@@ -1232,19 +1232,19 @@ TextureImporter:
       name: playerTankSpritesheet_53
       rect:
         serializedVersion: 2
-        x: 339
-        y: 298
-        width: 27
-        height: 32
+        x: 468
+        y: 394
+        width: 30
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf1f4ca7fdabf454296531dd34ea2f16
-      internalID: 2094254434
+      spriteID: 088aff31911f84ebd98def1ace61e12c
+      internalID: -534581228
       vertices: []
       indices: 
       edges: []
@@ -1253,19 +1253,19 @@ TextureImporter:
       name: playerTankSpritesheet_54
       rect:
         serializedVersion: 2
-        x: 395
-        y: 320
-        width: 26
+        x: 511
+        y: 394
+        width: 30
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14819ea68593d4473a5cd14be6d4abdf
-      internalID: -473337756
+      spriteID: 82ed8bce2e5294ade84740a1555661c4
+      internalID: 1903708969
       vertices: []
       indices: 
       edges: []
@@ -1274,19 +1274,19 @@ TextureImporter:
       name: playerTankSpritesheet_55
       rect:
         serializedVersion: 2
-        x: 485
-        y: 308
-        width: 26
-        height: 31
+        x: 33
+        y: 319
+        width: 29
+        height: 37
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b029a67dff8e046a49cdf7ae71fb40ac
-      internalID: -934382013
+      spriteID: bd515ee658cf446d18c35a940a636432
+      internalID: 237749655
       vertices: []
       indices: 
       edges: []
@@ -1295,19 +1295,19 @@ TextureImporter:
       name: playerTankSpritesheet_56
       rect:
         serializedVersion: 2
-        x: 0
-        y: 280
+        x: 69
+        y: 318
         width: 31
-        height: 32
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83e767eedbde24752a4fd724115b962f
-      internalID: -782477130
+      spriteID: 7feab5071032147b2808a3b84238104a
+      internalID: 1513826852
       vertices: []
       indices: 
       edges: []
@@ -1316,19 +1316,19 @@ TextureImporter:
       name: playerTankSpritesheet_57
       rect:
         serializedVersion: 2
-        x: 247
-        y: 266
-        width: 44
-        height: 31
+        x: 103
+        y: 318
+        width: 29
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96fa34c53e13140088084d83e54bae74
-      internalID: 1033923296
+      spriteID: c85b55a63f9ac4a09a05613f1a032db9
+      internalID: 1456624675
       vertices: []
       indices: 
       edges: []
@@ -1337,19 +1337,19 @@ TextureImporter:
       name: playerTankSpritesheet_58
       rect:
         serializedVersion: 2
-        x: 292
-        y: 266
+        x: 138
+        y: 317
         width: 43
-        height: 31
+        height: 41
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b01bf3d0629d746a1ad07e1070772b27
-      internalID: -268911453
+      spriteID: 4d96fcd333c9b4ac8a424dbce4cd573c
+      internalID: -820553591
       vertices: []
       indices: 
       edges: []
@@ -1358,19 +1358,19 @@ TextureImporter:
       name: playerTankSpritesheet_59
       rect:
         serializedVersion: 2
-        x: 336
-        y: 266
-        width: 42
-        height: 31
+        x: 192
+        y: 319
+        width: 43
+        height: 37
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be76ba6cffc8d4aedacd30991c578354
-      internalID: -822130792
+      spriteID: dd9c94ee78cc045cd9e885a1e4c417ed
+      internalID: -1424892239
       vertices: []
       indices: 
       edges: []
@@ -1379,19 +1379,19 @@ TextureImporter:
       name: playerTankSpritesheet_60
       rect:
         serializedVersion: 2
-        x: 421
-        y: 273
-        width: 39
+        x: 249
+        y: 315
+        width: 41
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ea956bee0248499e96ccfac719890d5
-      internalID: -459017807
+      spriteID: 64cf1b6ab9b60409a9ffc9db2c42b783
+      internalID: -1879228979
       vertices: []
       indices: 
       edges: []
@@ -1400,19 +1400,19 @@ TextureImporter:
       name: playerTankSpritesheet_61
       rect:
         serializedVersion: 2
-        x: 461
-        y: 273
-        width: 36
-        height: 31
+        x: 307
+        y: 315
+        width: 39
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb5c3398e6c43423ea95eaf82b8abb3c
-      internalID: 703542140
+      spriteID: fc8ff79cde7a84a7f8fde0731420d854
+      internalID: 1423857412
       vertices: []
       indices: 
       edges: []
@@ -1421,19 +1421,19 @@ TextureImporter:
       name: playerTankSpritesheet_62
       rect:
         serializedVersion: 2
-        x: 0
-        y: 215
-        width: 34
-        height: 31
+        x: 353
+        y: 315
+        width: 38
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34e0b5c06c655420dbbb9cc5aef0d6ed
-      internalID: 579816378
+      spriteID: ea53a56447a81497682d05163ee280a6
+      internalID: 1849893487
       vertices: []
       indices: 
       edges: []
@@ -1442,19 +1442,19 @@ TextureImporter:
       name: playerTankSpritesheet_63
       rect:
         serializedVersion: 2
-        x: 35
-        y: 215
+        x: 26
+        y: 264
         width: 33
-        height: 31
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e398db6ebcf6f460589811be64d0380a
-      internalID: 1105221594
+      spriteID: 5be011b80f5e94124aaaa2630f6b51a4
+      internalID: 1596404005
       vertices: []
       indices: 
       edges: []
@@ -1463,19 +1463,19 @@ TextureImporter:
       name: playerTankSpritesheet_64
       rect:
         serializedVersion: 2
-        x: 69
-        y: 215
-        width: 31
-        height: 31
+        x: 74
+        y: 265
+        width: 33
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8ce91519ac89490bb53583c0632e25d
-      internalID: 943207650
+      spriteID: ad7f95c3aaf904d87826ca22ad313735
+      internalID: 561084681
       vertices: []
       indices: 
       edges: []
@@ -1484,19 +1484,19 @@ TextureImporter:
       name: playerTankSpritesheet_65
       rect:
         serializedVersion: 2
-        x: 101
-        y: 215
+        x: 126
+        y: 265
         width: 31
-        height: 31
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bf5a8044a9524ac98d277f26e28d151
-      internalID: 1389081746
+      spriteID: c70250de08b924a088ab4ccf17452075
+      internalID: -792346187
       vertices: []
       indices: 
       edges: []
@@ -1505,19 +1505,19 @@ TextureImporter:
       name: playerTankSpritesheet_66
       rect:
         serializedVersion: 2
-        x: 133
-        y: 215
+        x: 178
+        y: 266
         width: 31
-        height: 31
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e871b212c6da74000ac3084ad7fbe292
-      internalID: 248288759
+      spriteID: c1de4dd8077f8448686b95700a6c0553
+      internalID: 406157378
       vertices: []
       indices: 
       edges: []
@@ -1526,19 +1526,19 @@ TextureImporter:
       name: playerTankSpritesheet_67
       rect:
         serializedVersion: 2
-        x: 165
-        y: 232
-        width: 31
-        height: 31
+        x: 20
+        y: 221
+        width: 36
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0465158acd9c94d9aa55bf024fab38f1
-      internalID: -1049775494
+      spriteID: 81ecb099d4b37465f9756d68d8cbee7c
+      internalID: -1834698853
       vertices: []
       indices: 
       edges: []
@@ -1547,19 +1547,19 @@ TextureImporter:
       name: playerTankSpritesheet_68
       rect:
         serializedVersion: 2
-        x: 197
-        y: 233
-        width: 31
-        height: 31
+        x: 65
+        y: 221
+        width: 36
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e28fa01657104941acfbf72c7cf2306
-      internalID: 1380094258
+      spriteID: 3e75bdb8560ae4ceca8bb1dd4ad702e2
+      internalID: 1393317626
       vertices: []
       indices: 
       edges: []
@@ -1568,19 +1568,19 @@ TextureImporter:
       name: playerTankSpritesheet_69
       rect:
         serializedVersion: 2
-        x: 229
-        y: 233
-        width: 31
-        height: 31
+        x: 116
+        y: 220
+        width: 34
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eba825431457140fc9a9a346338455c4
-      internalID: 522357704
+      spriteID: 53e056048f0f941458943d701d8cf384
+      internalID: -154414943
       vertices: []
       indices: 
       edges: []
@@ -1589,19 +1589,19 @@ TextureImporter:
       name: playerTankSpritesheet_70
       rect:
         serializedVersion: 2
-        x: 261
-        y: 234
-        width: 31
-        height: 31
+        x: 161
+        y: 220
+        width: 34
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a43f8705a551f4dacb5dae76118a6858
-      internalID: -895498203
+      spriteID: 0325c7a8824cb4061929df3c28ef1983
+      internalID: -1166428713
       vertices: []
       indices: 
       edges: []
@@ -1610,19 +1610,19 @@ TextureImporter:
       name: playerTankSpritesheet_71
       rect:
         serializedVersion: 2
-        x: 293
-        y: 234
-        width: 30
-        height: 31
+        x: 206
+        y: 219
+        width: 37
+        height: 26
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 101fa85b653174677ae51571730da6f5
-      internalID: 1812193519
+      spriteID: 12d0ded0dbfd84d0bbc51bdb979f912c
+      internalID: 978388758
       vertices: []
       indices: 
       edges: []
@@ -1631,19 +1631,19 @@ TextureImporter:
       name: playerTankSpritesheet_72
       rect:
         serializedVersion: 2
-        x: 324
-        y: 234
-        width: 30
-        height: 31
+        x: 252
+        y: 218
+        width: 36
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8444bbe65eec947eaa9fc6049c567180
-      internalID: 925136558
+      spriteID: ab259a003f4c241e9b072ffa828525c9
+      internalID: -1680075508
       vertices: []
       indices: 
       edges: []
@@ -1652,19 +1652,19 @@ TextureImporter:
       name: playerTankSpritesheet_73
       rect:
         serializedVersion: 2
-        x: 355
-        y: 234
-        width: 30
-        height: 31
+        x: 296
+        y: 216
+        width: 34
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6ab0da6ff37c4c77af9a138875dd8f2
-      internalID: -166553678
+      spriteID: cff06ad8b390d45e389cde7f2b8d4a50
+      internalID: 1603111002
       vertices: []
       indices: 
       edges: []
@@ -1673,19 +1673,19 @@ TextureImporter:
       name: playerTankSpritesheet_74
       rect:
         serializedVersion: 2
-        x: 386
-        y: 241
-        width: 30
-        height: 31
+        x: 343
+        y: 218
+        width: 34
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9acd5cae6b11410f9651d6156dedaa4
-      internalID: -2045536917
+      spriteID: 3b735a02e7b2d41bdad8c3b64f8773f6
+      internalID: 1116064108
       vertices: []
       indices: 
       edges: []
@@ -1694,19 +1694,19 @@ TextureImporter:
       name: playerTankSpritesheet_75
       rect:
         serializedVersion: 2
-        x: 417
-        y: 241
-        width: 30
-        height: 31
+        x: 470
+        y: 213
+        width: 41
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41a6c231d6a1f44bfb0680c9249bd522
-      internalID: -1340168160
+      spriteID: 035a9ba06393749b3bc2c570906fce78
+      internalID: 869492368
       vertices: []
       indices: 
       edges: []
@@ -1715,19 +1715,19 @@ TextureImporter:
       name: playerTankSpritesheet_76
       rect:
         serializedVersion: 2
-        x: 448
-        y: 241
-        width: 30
-        height: 31
+        x: 521
+        y: 213
+        width: 41
+        height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd4c8daf8903e4032acd82abbc4b2d2f
-      internalID: 792872046
+      spriteID: 2ac5c4bcfa6f74f0e914de808a748394
+      internalID: 1998920043
       vertices: []
       indices: 
       edges: []
@@ -1736,19 +1736,19 @@ TextureImporter:
       name: playerTankSpritesheet_77
       rect:
         serializedVersion: 2
-        x: 479
-        y: 241
-        width: 30
-        height: 31
+        x: 578
+        y: 218
+        width: 40
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b240f51f91343410b9013598c72abbf7
-      internalID: 632798365
+      spriteID: 923e902fe3cb240d198f8c93b7471d2c
+      internalID: -277513763
       vertices: []
       indices: 
       edges: []
@@ -1757,19 +1757,19 @@ TextureImporter:
       name: playerTankSpritesheet_78
       rect:
         serializedVersion: 2
-        x: 0
-        y: 183
-        width: 28
-        height: 31
+        x: 630
+        y: 217
+        width: 40
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58c74b43546a74c39a9bcfe072ee7c30
-      internalID: -46707618
+      spriteID: 0e53726346e034f698352d3df81f24a6
+      internalID: -958722666
       vertices: []
       indices: 
       edges: []
@@ -1778,19 +1778,19 @@ TextureImporter:
       name: playerTankSpritesheet_79
       rect:
         serializedVersion: 2
-        x: 29
-        y: 183
-        width: 28
-        height: 31
+        x: 686
+        y: 217
+        width: 40
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0eb70ffa07ad349cea9f961f27ba367b
-      internalID: -1205118188
+      spriteID: 240f8073c51aa489b80513abdafe14d4
+      internalID: 1537247788
       vertices: []
       indices: 
       edges: []
@@ -1799,19 +1799,19 @@ TextureImporter:
       name: playerTankSpritesheet_80
       rect:
         serializedVersion: 2
-        x: 58
-        y: 183
-        width: 28
-        height: 31
+        x: 29
+        y: 153
+        width: 32
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30030f97bf1d249288974460f64bfe1a
-      internalID: -1629363781
+      spriteID: 37759caa01b2740a9adad29715d9a80a
+      internalID: -1024705445
       vertices: []
       indices: 
       edges: []
@@ -1820,19 +1820,19 @@ TextureImporter:
       name: playerTankSpritesheet_81
       rect:
         serializedVersion: 2
-        x: 115
-        y: 183
-        width: 27
-        height: 31
+        x: 76
+        y: 153
+        width: 31
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f835f19c9e456467282e8e19dd065b73
-      internalID: 769236989
+      spriteID: 55bca2895ab6344669ec9a573301fc43
+      internalID: -1316643079
       vertices: []
       indices: 
       edges: []
@@ -1841,19 +1841,19 @@ TextureImporter:
       name: playerTankSpritesheet_82
       rect:
         serializedVersion: 2
-        x: 237
-        y: 202
-        width: 36
-        height: 30
+        x: 124
+        y: 158
+        width: 32
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db02132c114404884b6465950878e063
-      internalID: -224186452
+      spriteID: 2d4b3aca87a39443fb3ca5400dd39c30
+      internalID: 179039809
       vertices: []
       indices: 
       edges: []
@@ -1862,19 +1862,19 @@ TextureImporter:
       name: playerTankSpritesheet_83
       rect:
         serializedVersion: 2
-        x: 274
-        y: 203
-        width: 36
-        height: 30
+        x: 169
+        y: 148
+        width: 44
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8fce5c3b02e74d3c90792643026e394
-      internalID: -1882103797
+      spriteID: fc372bc21fcaa4279a36d58eb8951833
+      internalID: 775561612
       vertices: []
       indices: 
       edges: []
@@ -1883,19 +1883,19 @@ TextureImporter:
       name: playerTankSpritesheet_84
       rect:
         serializedVersion: 2
-        x: 311
-        y: 203
-        width: 35
-        height: 30
+        x: 97
+        y: 41
+        width: 33
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7e1ed5a05d0342c8bc413e8a305f8db
-      internalID: 1205608403
+      spriteID: 519c921c3196140bbb6559556a4e198d
+      internalID: 1844264587
       vertices: []
       indices: 
       edges: []
@@ -1904,19 +1904,19 @@ TextureImporter:
       name: playerTankSpritesheet_85
       rect:
         serializedVersion: 2
-        x: 347
-        y: 203
-        width: 35
-        height: 30
+        x: 138
+        y: 43
+        width: 33
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e47262064763649c0b9ffa68ad33821a
-      internalID: 1737157624
+      spriteID: 28cd3eb52184f4f868b7798b920ab4e9
+      internalID: 145054399
       vertices: []
       indices: 
       edges: []
@@ -1925,19 +1925,19 @@ TextureImporter:
       name: playerTankSpritesheet_86
       rect:
         serializedVersion: 2
-        x: 386
-        y: 210
-        width: 33
-        height: 30
+        x: 179
+        y: 43
+        width: 39
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1f38a057b00f47179d018a63baa6793
-      internalID: -480084015
+      spriteID: 324aa89a926974b9ba79f6455d00ed62
+      internalID: -1592890548
       vertices: []
       indices: 
       edges: []
@@ -1946,19 +1946,19 @@ TextureImporter:
       name: playerTankSpritesheet_87
       rect:
         serializedVersion: 2
-        x: 420
-        y: 210
-        width: 31
-        height: 30
+        x: 227
+        y: 41
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3422accedaa384a2d8a474287b783c3d
-      internalID: -1086333388
+      spriteID: 33612eb35615c484bb8b90005c3fe94c
+      internalID: -603713288
       vertices: []
       indices: 
       edges: []
@@ -1967,19 +1967,19 @@ TextureImporter:
       name: playerTankSpritesheet_88
       rect:
         serializedVersion: 2
-        x: 452
-        y: 210
-        width: 31
-        height: 30
+        x: 268
+        y: 38
+        width: 37
+        height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffd624d71fbd14fefa20e1fe73218c22
-      internalID: -407152122
+      spriteID: 075c7e869a5da41eb93da2f9ef2a9631
+      internalID: 1649765688
       vertices: []
       indices: 
       edges: []
@@ -1988,19 +1988,19 @@ TextureImporter:
       name: playerTankSpritesheet_89
       rect:
         serializedVersion: 2
-        x: 0
-        y: 152
+        x: 463
+        y: 23
         width: 27
-        height: 30
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b871409ad25bb4b29a0ef22bdcf24c05
-      internalID: 1119387194
+      spriteID: 39f9f5158702e4cad86da78156d8f600
+      internalID: -429945709
       vertices: []
       indices: 
       edges: []
@@ -2009,19 +2009,19 @@ TextureImporter:
       name: playerTankSpritesheet_90
       rect:
         serializedVersion: 2
-        x: 357
-        y: 173
-        width: 32
-        height: 29
+        x: 500
+        y: 21
+        width: 26
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98975db77497e4d40b7e3db0de432dbb
-      internalID: 2105134879
+      spriteID: a7df6c87e8f374318b0c893c26c12d13
+      internalID: -5212986
       vertices: []
       indices: 
       edges: []
@@ -2030,19 +2030,19 @@ TextureImporter:
       name: playerTankSpritesheet_91
       rect:
         serializedVersion: 2
-        x: 390
-        y: 180
-        width: 32
-        height: 29
+        x: 533
+        y: 21
+        width: 26
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9154906271f96428ebb952646b106705
-      internalID: -2081919822
+      spriteID: 744b839e537e84ffba0b45f782a332d3
+      internalID: -545076623
       vertices: []
       indices: 
       edges: []
@@ -2051,19 +2051,19 @@ TextureImporter:
       name: playerTankSpritesheet_92
       rect:
         serializedVersion: 2
-        x: 423
-        y: 180
-        width: 32
-        height: 29
+        x: 572
+        y: 19
+        width: 26
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b7f1f6a8d0534fb7ba45395e641a205
-      internalID: -744378965
+      spriteID: 3ec9c96ca6a33452b9c56b5e59699413
+      internalID: 1365161983
       vertices: []
       indices: 
       edges: []
@@ -2072,19 +2072,19 @@ TextureImporter:
       name: playerTankSpritesheet_93
       rect:
         serializedVersion: 2
-        x: 456
-        y: 180
-        width: 31
-        height: 29
+        x: 608
+        y: 21
+        width: 26
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2897f1bb2aad346a3b2a45fc0d3d766d
-      internalID: -143831489
+      spriteID: 1a17db780460b401c9e9164908a5b110
+      internalID: 1996732177
       vertices: []
       indices: 
       edges: []
@@ -2093,19 +2093,19 @@ TextureImporter:
       name: playerTankSpritesheet_94
       rect:
         serializedVersion: 2
-        x: 143
-        y: 124
-        width: 39
-        height: 28
+        x: 644
+        y: 23
+        width: 28
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e1abfa55745b41bf96411cca49a7148
-      internalID: 1182572337
+      spriteID: e60576bc988124b84a606b04a6775c91
+      internalID: -847257439
       vertices: []
       indices: 
       edges: []
@@ -2114,19 +2114,19 @@ TextureImporter:
       name: playerTankSpritesheet_95
       rect:
         serializedVersion: 2
-        x: 199
-        y: 142
-        width: 39
-        height: 28
+        x: 682
+        y: 22
+        width: 27
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f35c7ceb6cd24bb2baab39d00213fe1
-      internalID: -1801362906
+      spriteID: 268a6f26f55c144fe8763e9955eb902e
+      internalID: -1792797578
       vertices: []
       indices: 
       edges: []
@@ -2135,19 +2135,19 @@ TextureImporter:
       name: playerTankSpritesheet_96
       rect:
         serializedVersion: 2
-        x: 255
-        y: 144
-        width: 39
-        height: 28
+        x: 58
+        y: 11
+        width: 46
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0a1672a6c2be48ce90857963eef9a53
-      internalID: 575207500
+      spriteID: 77d2dedc7383a43bea5762135de2269f
+      internalID: 1220485999
       vertices: []
       indices: 
       edges: []
@@ -2156,19 +2156,19 @@ TextureImporter:
       name: playerTankSpritesheet_97
       rect:
         serializedVersion: 2
-        x: 295
-        y: 144
-        width: 34
-        height: 28
+        x: 108
+        y: 9
+        width: 41
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6dd23976ca514b9daf9d5f8ae0ff8cb
-      internalID: -2118243524
+      spriteID: b4fe3a336049e481bb7b0260681abffd
+      internalID: -1560863056
       vertices: []
       indices: 
       edges: []
@@ -2177,19 +2177,19 @@ TextureImporter:
       name: playerTankSpritesheet_98
       rect:
         serializedVersion: 2
-        x: 330
-        y: 144
-        width: 34
-        height: 28
+        x: 150
+        y: 9
+        width: 40
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ab30a60ded3049a4803088d67d304b1
-      internalID: -1910978140
+      spriteID: 4116839e3da3d43b8a8fe52ebc608893
+      internalID: -600341588
       vertices: []
       indices: 
       edges: []
@@ -2198,19 +2198,19 @@ TextureImporter:
       name: playerTankSpritesheet_99
       rect:
         serializedVersion: 2
-        x: 365
-        y: 144
-        width: 34
-        height: 28
+        x: 191
+        y: 11
+        width: 40
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: febfe736d00684a4cabbe99a57416d97
-      internalID: 359304775
+      spriteID: 366ff840cf14b4a1f8c1b9272aad8410
+      internalID: 1874825426
       vertices: []
       indices: 
       edges: []
@@ -2219,19 +2219,19 @@ TextureImporter:
       name: playerTankSpritesheet_100
       rect:
         serializedVersion: 2
-        x: 400
-        y: 151
-        width: 32
-        height: 28
+        x: 232
+        y: 11
+        width: 40
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3d829511f317457484f41bda25af6e7
-      internalID: -289747424
+      spriteID: 5c06ddfd8a0724894a4f7e038d3b531f
+      internalID: 775254053
       vertices: []
       indices: 
       edges: []
@@ -2240,19 +2240,19 @@ TextureImporter:
       name: playerTankSpritesheet_101
       rect:
         serializedVersion: 2
-        x: 433
-        y: 151
-        width: 30
-        height: 28
+        x: 277
+        y: 9
+        width: 40
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72941538ffa4044fe9658fee77c4b1e0
-      internalID: -1848347051
+      spriteID: 6625630f9b24d4f4b9f4e3f406e5c5f7
+      internalID: -687240816
       vertices: []
       indices: 
       edges: []
@@ -2261,19 +2261,19 @@ TextureImporter:
       name: playerTankSpritesheet_102
       rect:
         serializedVersion: 2
-        x: 464
-        y: 151
-        width: 30
-        height: 28
+        x: 324
+        y: 7
+        width: 40
+        height: 17
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7690d22b56c1f48dbbc78c9afb7da60f
-      internalID: -4701210
+      spriteID: 5b870be0ce08042ef949767b29b76fc4
+      internalID: 1202552572
       vertices: []
       indices: 
       edges: []
@@ -2282,943 +2282,19 @@ TextureImporter:
       name: playerTankSpritesheet_103
       rect:
         serializedVersion: 2
-        x: 0
-        y: 122
-        width: 30
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40d2c2309f0094419a3b4a112a2d1c54
-      internalID: 2049894626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_104
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 122
-        width: 30
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac9302272b9264434bb0f6b1dd370984
-      internalID: -443284631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_105
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 122
-        width: 27
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44de63e02056f4d5d85035ce9f9a692d
-      internalID: -1111756882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_106
-      rect:
-        serializedVersion: 2
-        x: 90
-        y: 122
-        width: 26
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6cbb1b87cf0c477ea64b5fe85f45ce7
-      internalID: 988123611
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_107
-      rect:
-        serializedVersion: 2
-        x: 117
-        y: 122
-        width: 25
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b28c9f1244bdc4d1fa3a5d7d7b40c434
-      internalID: 1529802615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_108
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 114
-        width: 40
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73b598969732d48bfb938ee4bbaca58d
-      internalID: -719252086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_109
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 116
-        width: 38
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb55b06afe993423382f024206898e50
-      internalID: 242411991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_110
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 116
-        width: 38
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61d7036bdf64a4930b8ee00c7bc0bf18
-      internalID: 296481916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_111
-      rect:
-        serializedVersion: 2
-        x: 317
-        y: 116
-        width: 37
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cbf4e2f813a6d41d281a700a44a2c639
-      internalID: 1122286107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_112
-      rect:
-        serializedVersion: 2
-        x: 355
-        y: 116
-        width: 36
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7921098a59f1c4313938e002a9aedb09
-      internalID: -1716143445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_113
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 123
-        width: 36
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5f378efe56f6432fa4be44df2d6d967
-      internalID: 368413710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_114
-      rect:
-        serializedVersion: 2
-        x: 437
-        y: 123
-        width: 36
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96e2a39ebc4a348fe9f559ac84e3c697
-      internalID: 133388400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_115
-      rect:
-        serializedVersion: 2
-        x: 474
-        y: 123
-        width: 34
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49e7aa69b22d84d2495d009358bd895f
-      internalID: 1973770126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_116
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 93
-        width: 29
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28d92408bb2734a96b905009c1cfca1e
-      internalID: 1890217539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_117
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 93
-        width: 29
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 14d5e4bb0184942438e66d3930290f61
-      internalID: -251618063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_118
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 93
-        width: 27
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37e46f44213f440f1b63d2a021641e14
-      internalID: 1710807778
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_119
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 93
-        width: 27
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f44d8b303d0d4954a603b6534f52cea
-      internalID: 1924411868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_120
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 94
-        width: 40
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a794e39f1e9c420884b4fbbb3991459
-      internalID: 1815239328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_121
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 96
-        width: 40
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24f5ac2d9a3814f5c9dc5ebfb06f7eb7
-      internalID: 655530308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_122
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 86
-        width: 33
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d6f0c0ab09b7428cbacb149ed7370e7
-      internalID: -93201615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_123
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 88
-        width: 33
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b285ba25eb7b547cb93a0dc3b4d1b161
-      internalID: 243895877
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_124
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 88
-        width: 31
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef681c5626b3b401ebb3ee9f59bd17ad
-      internalID: 78429463
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_125
-      rect:
-        serializedVersion: 2
-        x: 305
-        y: 88
-        width: 29
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 706c657fbd6804ab0b43ae39c82b2031
-      internalID: 686041212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_126
-      rect:
-        serializedVersion: 2
-        x: 363
-        y: 88
-        width: 27
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fe30d02329ee48f485154460571eb29
-      internalID: 1583855378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_127
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 65
-        width: 34
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41308f26b9f024c5da4cdb99f003cba9
-      internalID: -273698007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_128
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 65
-        width: 34
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b221520f688a435c8044a6a1740ba2d
-      internalID: 1655899234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_129
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 65
-        width: 33
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 930e37048ecc54d4c90ca4bac8c0ca11
-      internalID: -1558661955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_130
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 66
-        width: 33
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b7a6a1e5b44ac4a6e9ddfdf75cfcfd0d
-      internalID: -491022985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_131
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 68
-        width: 33
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1a0ad71ed6de4af98c0a946f04ff7eb
-      internalID: 2081253928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_132
-      rect:
-        serializedVersion: 2
-        x: 312
-        y: 61
-        width: 37
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3326300c87ab54e36a33c8ec5c3d6351
-      internalID: 1102736772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_133
-      rect:
-        serializedVersion: 2
-        x: 391
-        y: 69
-        width: 32
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1e34aad655c54ecaa5f611f1858ef23
-      internalID: -1219972690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_134
-      rect:
-        serializedVersion: 2
-        x: 424
-        y: 70
-        width: 37
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71edbac36fb7541b9827af0a029ec275
-      internalID: 981832144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_135
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 38
-        width: 40
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 447ededc7d8d64407a23f4ee53260cb1
-      internalID: 281191637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_136
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 38
-        width: 38
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7cf2edc13ceb34b6997e4dae5eafed6e
-      internalID: -775064568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_137
-      rect:
-        serializedVersion: 2
-        x: 414
-        y: 28
-        width: 31
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82d2b3482cd534d97bda9723e242c402
-      internalID: -1096118817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_138
-      rect:
-        serializedVersion: 2
-        x: 458
-        y: 36
-        width: 32
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b2ed7eb7ff3644d58003273a63700e0
-      internalID: 2103174060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_139
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 9
-        width: 44
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c382530bedb648faa0f1d6938b9f674
-      internalID: -1061226392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_140
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 11
-        width: 46
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c682387027364460799db308fb844e02
-      internalID: 1691022226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_141
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 9
-        width: 41
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96ff6b119282f4e558ef8760d996cf6c
-      internalID: 85866408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_142
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 9
-        width: 40
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 740d9e3001b6d4a198e019fd50ff4aa2
-      internalID: 1831466187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_143
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 11
-        width: 40
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55a7b8635d3c64ee5a13bc47982db706
-      internalID: 1139196756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_144
-      rect:
-        serializedVersion: 2
-        x: 232
-        y: 11
-        width: 40
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 215d50f82b36544509a786a67467842b
-      internalID: 251433615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_145
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 9
-        width: 40
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f771454ad87c44b2808e584c35e6151
-      internalID: -2052184813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_146
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 7
-        width: 40
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0b81b68debba46ccac1b9a8f9b86c3f
-      internalID: 2073097025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: playerTankSpritesheet_147
-      rect:
-        serializedVersion: 2
         x: 371
         y: 6
         width: 40
         height: 17
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb3e11df167a74ea2809cc5b09f9aa85
-      internalID: 551226197
+      spriteID: b6b889bd30c514f5fb23844c48a36b9e
+      internalID: 845871203
       vertices: []
       indices: 
       edges: []
@@ -3234,154 +2310,110 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      playerTankSpritesheet_33: 1020183508
-      playerTankSpritesheet_15: -848408396
-      playerTankSpritesheet_68: 1380094258
-      playerTankSpritesheet_137: -1096118817
-      playerTankSpritesheet_107: 1529802615
-      playerTankSpritesheet_113: 368413710
-      playerTankSpritesheet_53: 2094254434
-      playerTankSpritesheet_65: 1389081746
-      playerTankSpritesheet_126: 1583855378
-      playerTankSpritesheet_32: -1012926819
-      playerTankSpritesheet_4: 622131023
-      playerTankSpritesheet_44: 1652230617
-      playerTankSpritesheet_13: -555475889
-      playerTankSpritesheet_116: 1890217539
-      playerTankSpritesheet_34: 690860618
-      playerTankSpritesheet_61: 703542140
-      playerTankSpritesheet_23: 1346415577
-      playerTankSpritesheet_86: -480084015
-      playerTankSpritesheet_141: 85866408
-      playerTankSpritesheet_83: -1882103797
-      playerTankSpritesheet_105: -1111756882
-      playerTankSpritesheet_36: 132188664
-      playerTankSpritesheet_29: 1141174476
-      playerTankSpritesheet_109: 242411991
-      playerTankSpritesheet_58: -268911453
-      playerTankSpritesheet_87: -1086333388
-      playerTankSpritesheet_40: -2106967875
-      playerTankSpritesheet_91: -2081919822
-      playerTankSpritesheet_104: -443284631
-      playerTankSpritesheet_47: 1671561638
-      playerTankSpritesheet_119: 1924411868
-      playerTankSpritesheet_54: -473337756
-      playerTankSpritesheet_135: 281191637
-      playerTankSpritesheet_69: 522357704
-      playerTankSpritesheet_93: -143831489
-      playerTankSpritesheet_99: 359304775
-      playerTankSpritesheet_50: -398895907
-      playerTankSpritesheet_28: -2067298303
-      playerTankSpritesheet_16: 353721985
-      playerTankSpritesheet_26: -478459551
-      playerTankSpritesheet_45: 1123747920
-      playerTankSpritesheet_67: -1049775494
-      playerTankSpritesheet_144: 251433615
-      playerTankSpritesheet_131: 2081253928
-      playerTankSpritesheet_31: -967306261
-      playerTankSpritesheet_94: 1182572337
-      playerTankSpritesheet_120: 1815239328
-      playerTankSpritesheet_51: -489107253
-      playerTankSpritesheet_92: -744378965
-      playerTankSpritesheet_88: -407152122
-      playerTankSpritesheet_139: -1061226392
-      playerTankSpritesheet_37: -25604491
-      playerTankSpritesheet_56: -782477130
-      playerTankSpritesheet_90: 2105134879
-      playerTankSpritesheet_7: -1269573630
-      playerTankSpritesheet_24: -839078964
-      playerTankSpritesheet_1: -27935559
-      playerTankSpritesheet_84: 1205608403
-      playerTankSpritesheet_130: -491022985
-      playerTankSpritesheet_98: -1910978140
-      playerTankSpritesheet_138: 2103174060
-      playerTankSpritesheet_71: 1812193519
-      playerTankSpritesheet_20: 399109265
-      playerTankSpritesheet_39: 1197448144
-      playerTankSpritesheet_101: -1848347051
-      playerTankSpritesheet_132: 1102736772
-      playerTankSpritesheet_21: -1288648094
-      playerTankSpritesheet_111: 1122286107
-      playerTankSpritesheet_9: 1625112780
-      playerTankSpritesheet_35: -2111424326
-      playerTankSpritesheet_129: -1558661955
-      playerTankSpritesheet_0: 1231131172
-      playerTankSpritesheet_89: 1119387194
-      playerTankSpritesheet_106: 988123611
-      playerTankSpritesheet_85: 1737157624
-      playerTankSpritesheet_60: -459017807
-      playerTankSpritesheet_108: -719252086
-      playerTankSpritesheet_112: -1716143445
-      playerTankSpritesheet_77: 632798365
-      playerTankSpritesheet_121: 655530308
-      playerTankSpritesheet_147: 551226197
-      playerTankSpritesheet_140: 1691022226
-      playerTankSpritesheet_62: 579816378
-      playerTankSpritesheet_57: 1033923296
-      playerTankSpritesheet_3: -235138100
-      playerTankSpritesheet_64: 943207650
-      playerTankSpritesheet_118: 1710807778
-      playerTankSpritesheet_14: -242615899
-      playerTankSpritesheet_27: -951560913
-      playerTankSpritesheet_42: 1762299433
-      playerTankSpritesheet_63: 1105221594
-      playerTankSpritesheet_59: -822130792
-      playerTankSpritesheet_41: 1057253099
-      playerTankSpritesheet_100: -289747424
-      playerTankSpritesheet_10: -1220691464
-      playerTankSpritesheet_12: -1727746454
-      playerTankSpritesheet_117: -251618063
-      playerTankSpritesheet_122: -93201615
-      playerTankSpritesheet_43: -773501847
-      playerTankSpritesheet_8: 943756249
-      playerTankSpritesheet_75: -1340168160
-      playerTankSpritesheet_2: 1727697938
-      playerTankSpritesheet_97: -2118243524
-      playerTankSpritesheet_143: 1139196756
-      playerTankSpritesheet_136: -775064568
-      playerTankSpritesheet_49: -1707152124
-      playerTankSpritesheet_72: 925136558
-      playerTankSpritesheet_70: -895498203
-      playerTankSpritesheet_74: -2045536917
-      playerTankSpritesheet_95: -1801362906
-      playerTankSpritesheet_18: 1977378998
-      playerTankSpritesheet_48: -341849839
-      playerTankSpritesheet_110: 296481916
-      playerTankSpritesheet_55: -934382013
-      playerTankSpritesheet_46: 2067434461
-      playerTankSpritesheet_17: 1751424587
-      playerTankSpritesheet_38: -995945260
-      playerTankSpritesheet_6: 1597543400
-      playerTankSpritesheet_73: -166553678
-      playerTankSpritesheet_128: 1655899234
-      playerTankSpritesheet_142: 1831466187
-      playerTankSpritesheet_96: 575207500
-      playerTankSpritesheet_146: 2073097025
-      playerTankSpritesheet_80: -1629363781
-      playerTankSpritesheet_25: 482826960
-      playerTankSpritesheet_123: 243895877
-      playerTankSpritesheet_114: 133388400
-      playerTankSpritesheet_133: -1219972690
-      playerTankSpritesheet_22: 1729296927
-      playerTankSpritesheet_11: 352154161
-      playerTankSpritesheet_81: 769236989
-      playerTankSpritesheet_19: -504007532
-      playerTankSpritesheet_103: 2049894626
-      playerTankSpritesheet_5: 1533791115
-      playerTankSpritesheet_30: 2055890152
-      playerTankSpritesheet_102: -4701210
-      playerTankSpritesheet_76: 792872046
-      playerTankSpritesheet_115: 1973770126
-      playerTankSpritesheet_78: -46707618
-      playerTankSpritesheet_52: 1126872785
-      playerTankSpritesheet_66: 248288759
-      playerTankSpritesheet_124: 78429463
-      playerTankSpritesheet_82: -224186452
-      playerTankSpritesheet_127: -273698007
-      playerTankSpritesheet_125: 686041212
-      playerTankSpritesheet_134: 981832144
-      playerTankSpritesheet_79: -1205118188
-      playerTankSpritesheet_145: -2052184813
+      playerTankSpritesheet_33: 481696548
+      playerTankSpritesheet_15: 1905574449
+      playerTankSpritesheet_68: 1393317626
+      playerTankSpritesheet_53: -534581228
+      playerTankSpritesheet_65: -792346187
+      playerTankSpritesheet_32: -1857309870
+      playerTankSpritesheet_4: -365640030
+      playerTankSpritesheet_44: -1518934048
+      playerTankSpritesheet_13: -1335170291
+      playerTankSpritesheet_34: 825954991
+      playerTankSpritesheet_61: 1423857412
+      playerTankSpritesheet_23: 1745369739
+      playerTankSpritesheet_86: -1592890548
+      playerTankSpritesheet_83: 775561612
+      playerTankSpritesheet_36: 480438492
+      playerTankSpritesheet_29: 2041301606
+      playerTankSpritesheet_58: -820553591
+      playerTankSpritesheet_87: -603713288
+      playerTankSpritesheet_40: 1838215008
+      playerTankSpritesheet_91: -545076623
+      playerTankSpritesheet_47: 1713937953
+      playerTankSpritesheet_54: 1903708969
+      playerTankSpritesheet_69: -154414943
+      playerTankSpritesheet_93: 1996732177
+      playerTankSpritesheet_99: 1874825426
+      playerTankSpritesheet_50: 87838137
+      playerTankSpritesheet_28: 1078602593
+      playerTankSpritesheet_16: -228735399
+      playerTankSpritesheet_26: -41257401
+      playerTankSpritesheet_45: 1932558151
+      playerTankSpritesheet_67: -1834698853
+      playerTankSpritesheet_31: 813901666
+      playerTankSpritesheet_94: -847257439
+      playerTankSpritesheet_51: -285380317
+      playerTankSpritesheet_92: 1365161983
+      playerTankSpritesheet_88: 1649765688
+      playerTankSpritesheet_37: -1325102094
+      playerTankSpritesheet_56: 1513826852
+      playerTankSpritesheet_90: -5212986
+      playerTankSpritesheet_7: 242681142
+      playerTankSpritesheet_24: -234331119
+      playerTankSpritesheet_1: -708487458
+      playerTankSpritesheet_84: 1844264587
+      playerTankSpritesheet_98: -600341588
+      playerTankSpritesheet_71: 978388758
+      playerTankSpritesheet_20: 606405273
+      playerTankSpritesheet_39: 556061515
+      playerTankSpritesheet_101: -687240816
+      playerTankSpritesheet_21: -775541583
+      playerTankSpritesheet_9: -1438022717
+      playerTankSpritesheet_35: 1581362674
+      playerTankSpritesheet_0: -223099982
+      playerTankSpritesheet_89: -429945709
+      playerTankSpritesheet_85: 145054399
+      playerTankSpritesheet_60: -1879228979
+      playerTankSpritesheet_77: -277513763
+      playerTankSpritesheet_62: 1849893487
+      playerTankSpritesheet_57: 1456624675
+      playerTankSpritesheet_3: 573123566
+      playerTankSpritesheet_64: 561084681
+      playerTankSpritesheet_14: 1731158153
+      playerTankSpritesheet_27: -2056290307
+      playerTankSpritesheet_42: 1599463702
+      playerTankSpritesheet_63: 1596404005
+      playerTankSpritesheet_59: -1424892239
+      playerTankSpritesheet_41: -783193235
+      playerTankSpritesheet_100: 775254053
+      playerTankSpritesheet_10: -1142493305
+      playerTankSpritesheet_12: 142422844
+      playerTankSpritesheet_43: 1311293276
+      playerTankSpritesheet_8: -1618364434
+      playerTankSpritesheet_75: 869492368
+      playerTankSpritesheet_2: -1672784311
+      playerTankSpritesheet_97: -1560863056
+      playerTankSpritesheet_49: 1876727793
+      playerTankSpritesheet_72: -1680075508
+      playerTankSpritesheet_70: -1166428713
+      playerTankSpritesheet_74: 1116064108
+      playerTankSpritesheet_95: -1792797578
+      playerTankSpritesheet_18: -1800381900
+      playerTankSpritesheet_48: -1179379745
+      playerTankSpritesheet_55: 237749655
+      playerTankSpritesheet_46: -495279474
+      playerTankSpritesheet_17: -1129206257
+      playerTankSpritesheet_38: 719390230
+      playerTankSpritesheet_6: 494845064
+      playerTankSpritesheet_73: 1603111002
+      playerTankSpritesheet_96: 1220485999
+      playerTankSpritesheet_80: -1024705445
+      playerTankSpritesheet_25: -2118963355
+      playerTankSpritesheet_22: -1736283315
+      playerTankSpritesheet_11: -1973637219
+      playerTankSpritesheet_81: -1316643079
+      playerTankSpritesheet_19: 243238766
+      playerTankSpritesheet_103: 845871203
+      playerTankSpritesheet_5: -334353091
+      playerTankSpritesheet_30: 1319760711
+      playerTankSpritesheet_102: 1202552572
+      playerTankSpritesheet_76: 1998920043
+      playerTankSpritesheet_78: -958722666
+      playerTankSpritesheet_52: -487946169
+      playerTankSpritesheet_66: 406157378
+      playerTankSpritesheet_82: 179039809
+      playerTankSpritesheet_79: 1537247788
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
