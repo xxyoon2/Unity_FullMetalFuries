@@ -5,17 +5,21 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private SpriteRenderer _spriteRenderer;
+    private Rigidbody2D _rigidbody;
+    private Animator _animator;
 
     public int MoveSpeed = 1;
     public bool isback = false;
 
     private PlayerInput _input;
-    private Rigidbody2D _rigidbody;
-    private Animator _animator;
+    private PlayerSkill _skill;
+    
     void Awake()
     {
         
         _input = GetComponent<PlayerInput>();
+        _skill = GetComponent<PlayerSkill>();
+        
         _rigidbody = gameObject.GetComponent<Rigidbody2D>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _animator = GetComponent<Animator>();
@@ -64,6 +68,25 @@ public class PlayerMovement : MonoBehaviour
         {
             _rigidbody.AddForce(new Vector2(-MoveSpeed, 0));
         }
+        if (_input.CanAttack)
+        {
+            //_animator.SetTrigger("attack");
+            _skill.Attack();
+            Debug.Log($"클릭");
+        }
+        if (_input.CanDefense)
+        {
+            Debug.Log("방어");
+        }
+        if (_input.CanSpecialAttack)
+        {
+            Debug.Log("특수 공격");
+        }
+        if (_input.CanDodge)
+        {
+            Debug.Log("회피");
+        }
+
 
         if (_rigidbody.velocity.normalized.x != 0 || _rigidbody.velocity.normalized.y != 0)
         {

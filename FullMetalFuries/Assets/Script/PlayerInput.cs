@@ -16,11 +16,16 @@ public class PlayerInput : MonoBehaviour
 
     void Update()
     {
-        Up = Down = Left = Right = false;
+        Up = Down = Left = Right = CanAttack = CanDefense = CanSpecialAttack = CanDodge = false;
 
         Up = Input.GetKey(KeyCode.W);
         Down = Input.GetKey(KeyCode.S);
         Right = Input.GetKey(KeyCode.D);
         Left = Input.GetKey(KeyCode.A);
+
+        CanAttack = Input.GetMouseButtonDown(0);
+        CanDefense = Input.GetMouseButton(1);
+        CanSpecialAttack = Input.GetKeyDown(KeyCode.F);
+        CanDodge = Input.GetKeyDown(KeyCode.Space);
     }
 }
