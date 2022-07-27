@@ -11,8 +11,10 @@ public class PlayerSkill : MonoBehaviour
     //     Defense,
     //     Die
     // }
-    public Vector2 AttackRange = new Vector2(0.2f, 0.2f);
     public GameObject AttackObject;
+    public Vector2 AttackRange = new Vector2(0.2f, 0.2f);
+    public GameObject SpecialAttackPosition;
+    public float SpecialAttackRange = 1f;
 
     private AudioSource _audioPlayer;
     private Animator _animator;
@@ -20,7 +22,7 @@ public class PlayerSkill : MonoBehaviour
 
     public int PlayerHealth = 100;
     public int PlayerStrength = 25;
-    public int technology = 25;
+    public int Playertechnology = 25;
 
     public float SpecialAttackCooTime = 11f;
     public float DodgeCoolTime = 7f;
@@ -69,6 +71,18 @@ public class PlayerSkill : MonoBehaviour
     {
         Debug.Log("특수 공격");
         _animator.SetTrigger(PlayerAnimID.SpecialAttack);
+        
+        Collider2D[] EnemiesColl = Physics2D.OverlapBoxAll(SpecialAttackPosition.transform.position, new Vector2(SpecialAttackRange, SpecialAttackRange), 0f);
+
+        foreach (Collider2D EnemyColl in EnemiesColl)
+        {
+            if (EnemyColl.tag == "Enemy")
+            {
+                Debug.Log($"{EnemyColl}");
+                EnemyColl.GetComponent<EnemyStatus>().TakeDamage(Playertechnology - 3);
+            }
+        }
+
     }
 
     public void Dodge()
