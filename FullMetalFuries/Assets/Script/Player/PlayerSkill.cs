@@ -27,6 +27,8 @@ public class PlayerSkill : MonoBehaviour
     public float SpecialAttackCooTime = 11f;
     public float DodgeCoolTime = 7f;
 
+    private float _dodgeTime = 5f;
+
     //[SerializeField]
     //public bool _isEnemy = false;
 
@@ -48,16 +50,11 @@ public class PlayerSkill : MonoBehaviour
 
         if (EnemyColl != null)
         {
-            //Debug.Log($"우린미친듯이 사랑하고 오브젝트 == {Coll}");
             Debug.Log($"EnemyColl = {EnemyColl}");
             if (EnemyColl.tag == "Enemy")
             {
-                EnemyColl.GetComponent<EnemyStatus>().TakeDamage(PlayerStrength / 3);
+                //EnemyColl.GetComponent<EnemyStatus>().TakeDamage(PlayerStrength / 3);
             }
-        }
-        else
-        {
-            Debug.Log("우가");
         }
     }
 
@@ -72,6 +69,7 @@ public class PlayerSkill : MonoBehaviour
         Debug.Log("특수 공격");
         _animator.SetTrigger(PlayerAnimID.SpecialAttack);
         
+        // 여기서 감지하는 충돌체에 트리거도 포함됨... 
         Collider2D[] EnemiesColl = Physics2D.OverlapBoxAll(SpecialAttackPosition.transform.position, new Vector2(SpecialAttackRange, SpecialAttackRange), 0f);
 
         foreach (Collider2D EnemyColl in EnemiesColl)
@@ -79,7 +77,7 @@ public class PlayerSkill : MonoBehaviour
             if (EnemyColl.tag == "Enemy")
             {
                 Debug.Log($"{EnemyColl}");
-                EnemyColl.GetComponent<EnemyStatus>().TakeDamage(Playertechnology - 3);
+                //EnemyColl.GetComponent<EnemyStatus>().TakeDamage(Playertechnology - 3);
             }
         }
 
@@ -89,5 +87,29 @@ public class PlayerSkill : MonoBehaviour
     {
         Debug.Log("회피");
         _animator.SetTrigger(PlayerAnimID.Dodge);
+        // float countTime = 0f;
+
+        // while (countTime < _dodgeTime)
+        // {
+        //     Collider2D EnemyColl = Physics2D.OverlapBox(AttackObject.transform.position, AttackRange, 0f);
+        //     Debug.Log("콜라이더 검출하기");
+        //     if (EnemyColl != null)
+        //     {
+        //         if (EnemyColl.tag == "Enemy")
+        //         {
+        //             EnemyColl.GetComponent<EnemyStatus>().TakeDamage(Playertechnology - 5);
+        //             _animator.SetBool("doAttack", true);
+        //             Debug.Log("부딪힘");
+        //         }
+
+        //         break;
+        //     }
+        //     Debug.Log("널널~~하다");
+        //     countTime += Time.deltaTime;
+        // }
+
+        // _animator.SetBool("doAttack", true);
+        // _animator.SetTrigger(PlayerAnimID.Collide);
+        // _animator.SetBool("doAttack", false);
     }
 }

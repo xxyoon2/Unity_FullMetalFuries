@@ -48,6 +48,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        // 이동
         if (_input.Up)
         {
             _rigidbody.AddForce(new Vector2(0, MoveSpeed));
@@ -64,6 +65,8 @@ public class PlayerMovement : MonoBehaviour
         {
             _rigidbody.AddForce(new Vector2(-MoveSpeed, 0));
         }
+
+        // 스킬
         if (_input.CanAttack)
         {
             _skill.Attack();

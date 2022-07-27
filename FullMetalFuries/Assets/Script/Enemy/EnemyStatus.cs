@@ -11,8 +11,5 @@ public class EnemyStatus : MonoBehaviour
         Health = 50;
     }
 
-    public void TakeDamage(int damage)
-    {
-        Health -= damage;
-    }
+    
 }
