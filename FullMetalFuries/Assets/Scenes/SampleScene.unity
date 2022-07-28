@@ -1805,6 +1805,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Health: 0
+  Speed: 2
+  Target: {fileID: 1184198469}
+  TargetTransform: {fileID: 0}
 --- !u!1 &1184198469
 GameObject:
   m_ObjectHideFlags: 0
@@ -2008,11 +2011,6 @@ MonoBehaviour:
   AttackRange: {x: 0.2, y: 0.2}
   SpecialAttackPosition: {fileID: 1951371438}
   SpecialAttackRange: 1.5
-  PlayerHealth: 100
-  PlayerStrength: 25
-  Playertechnology: 25
-  SpecialAttackCooTime: 11
-  DodgeCoolTime: 7
 --- !u!114 &1184198479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2039,9 +2037,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4aab46374e36234abbb3b544ecfbbec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerHealth: 100
-  PlayerStrength: 25
-  technology: 25
+  Health: 100
+  Strength: 25
+  Technology: 25
+  SpecialAttackCooTime: 11
+  DodgeCoolTime: 7
 --- !u!114 &1184198481
 MonoBehaviour:
   m_ObjectHideFlags: 0

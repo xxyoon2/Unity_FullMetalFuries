@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-    private EnemyStatus _status;
+    private Enemy _status;
     private Animation _animation;
     void Awake()
     {
-        _status = GetComponent<EnemyStatus>();
+        _status = GetComponent<Enemy>();
     }
 
     public void TakeDamage(int damage)
