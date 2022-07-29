@@ -6,6 +6,7 @@ public class PlayerDodgeState : StateMachineBehaviour
 {
     PlayerSkill pSkill;
     Player player;
+    
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         //animator.SetBool("canDodgeAttack", false);

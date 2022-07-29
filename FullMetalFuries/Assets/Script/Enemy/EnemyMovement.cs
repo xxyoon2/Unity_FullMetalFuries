@@ -4,16 +4,17 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-    private Enemy _status;
-    private Animation _animation;
+    public Enemy _enemy;
+    //private Animation _animation;
     void Awake()
     {
-        _status = GetComponent<Enemy>();
+        _enemy = GetComponent<Enemy>();
     }
 
     public void TakeDamage(int damage)
     {
-        _status.Health -= damage;
+        _enemy.Health -= damage;
+        Debug.Log($"Damage - {damage}");
     }
 
     public void Down()

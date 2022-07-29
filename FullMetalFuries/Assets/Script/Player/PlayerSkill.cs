@@ -20,8 +20,6 @@ public class PlayerSkill : MonoBehaviour
     private Animator _animator;
     private Player _player;
 
- 
-
     //private float _dodgeTime = 5f;
 
     //[SerializeField]
@@ -41,16 +39,16 @@ public class PlayerSkill : MonoBehaviour
         // 공격하는 애니메이션, 소리 출력
         _animator.SetTrigger(PlayerAnimID.Attack);
 
-        // Collider2D EnemyColl = Physics2D.OverlapBox(AttackObject.transform.position, AttackRange, 0f);
+        Collider2D EnemyColl = Physics2D.OverlapBox(AttackObject.transform.position, AttackRange, 0f);
 
-        // if (EnemyColl != null)
-        // {
-        //     Debug.Log($"EnemyColl = {EnemyColl}");
-        //     if (EnemyColl.tag == "Enemy")
-        //     {
-        //         EnemyColl.GetComponent<EnemyMovement>().TakeDamage(_player.Strength / 3);
-        //     }
-        // }
+        if (EnemyColl != null)
+        {
+            if (EnemyColl.tag == "Enemy")
+            {
+                Debug.Log($"EnemyColl = {EnemyColl}");
+                EnemyColl.GetComponent<EnemyMovement>().TakeDamage(_player.Strength / 3);
+            }
+        }
     }
 
     public void Defense()

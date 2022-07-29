@@ -8,11 +8,12 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D _rigidbody;
     private Animator _animator;
 
-    public int MoveSpeed = 1;
+    //public int MoveSpeed = 1;
     public bool isback = false;
 
     private PlayerInput _input;
     private PlayerSkill _skill;
+    public Player _player;
     
     void Awake()
     {
@@ -23,6 +24,8 @@ public class PlayerMovement : MonoBehaviour
         _rigidbody = gameObject.GetComponent<Rigidbody2D>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _animator = GetComponent<Animator>();
+
+        _player = GetComponent<Player>();
     }
     private void OnTriggerStay2D(Collider2D other)
     {
@@ -51,19 +54,19 @@ public class PlayerMovement : MonoBehaviour
         // 이동
         if (_input.Up)
         {
-            _rigidbody.AddForce(new Vector2(0, MoveSpeed));
+            _rigidbody.AddForce(new Vector2(0, _player.MoveSpeed));
         }
         if (_input.Down)
         {
-            _rigidbody.AddForce(new Vector2(0, -MoveSpeed));
+            _rigidbody.AddForce(new Vector2(0, -_player.MoveSpeed));
         }
         if (_input.Right)
         {
-            _rigidbody.AddForce(new Vector2(MoveSpeed, 0));
+            _rigidbody.AddForce(new Vector2(_player.MoveSpeed, 0));
         }
         if (_input.Left)
         {
-            _rigidbody.AddForce(new Vector2(-MoveSpeed, 0));
+            _rigidbody.AddForce(new Vector2(-_player.MoveSpeed, 0));
         }
 
         // 스킬
@@ -101,5 +104,10 @@ public class PlayerMovement : MonoBehaviour
         {
             _animator.SetBool("isWalking", false);
         }
+    }
+
+    public void TakeDamage(int damage)
+    {
+        _player.Health -= damage;
     }
 }
