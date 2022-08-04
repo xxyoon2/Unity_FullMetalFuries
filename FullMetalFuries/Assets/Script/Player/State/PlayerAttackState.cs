@@ -11,6 +11,6 @@ public class PlayerAttackState : StateMachineBehaviour
     
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
-       animator.GetComponent<Player>().MoveSpeed = 10f;
+       animator.GetComponent<Player>().MoveSpeed = 20f;
     }
 }
